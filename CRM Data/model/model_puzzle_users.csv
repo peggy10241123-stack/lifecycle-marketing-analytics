@@ -1,0 +1,751 @@
+user_id,user_value_tier,lifecycle_stage,daily_checkin_flag,recharge_chance_count,chance_count,puzzle_piece_count,completed_flag,random_reward_claim_count,grand_prize_claim_flag,participated_flag,puzzle_status
+U000002,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U000174,"Low Value",Dormant,1,0,1,1,0,1,0,1,Participated
+U001640,"Low Value",Active,1,0,1,1,0,1,0,1,Participated
+U002161,Non-Payer,At-Risk,1,14,15,9,1,9,0,1,Completed
+U002655,Non-Payer,Active,1,4,5,1,0,1,0,1,Participated
+U000964,Non-Payer,At-Risk,1,0,1,1,0,1,0,1,Participated
+U001294,"High Value",Active,1,13,14,9,1,9,0,1,Completed
+U001890,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U000697,Non-Payer,Churned,1,0,1,1,0,1,0,1,Participated
+U002497,"Low Value",At-Risk,1,9,10,9,1,9,1,1,"Grand Prize"
+U001404,"Low Value",Dormant,1,11,12,9,1,9,1,1,"Grand Prize"
+U001550,Non-Payer,Churned,1,0,1,1,0,1,0,1,Participated
+U000716,"Low Value",Active,1,0,1,1,0,1,0,1,Participated
+U000277,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U000678,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U000007,"High Value",Active,1,8,9,9,1,9,1,1,"Grand Prize"
+U000797,Non-Payer,Active,1,2,3,3,0,3,0,1,Participated
+U001631,"High Value",At-Risk,1,10,11,9,1,9,1,1,"Grand Prize"
+U000971,"Medium Value",Churned,1,5,6,6,0,6,0,1,Participated
+U000320,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U002449,Non-Payer,Dormant,1,0,1,1,0,1,0,1,Participated
+U000165,Non-Payer,At-Risk,1,0,1,1,0,1,0,1,Participated
+U000630,"Low Value",Active,1,9,10,9,1,9,1,1,"Grand Prize"
+U002993,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U001880,"Low Value",At-Risk,1,10,11,9,1,9,0,1,Completed
+U001721,"Medium Value",Churned,1,11,12,9,1,9,1,1,"Grand Prize"
+U001017,"Low Value",Active,1,10,11,9,1,9,0,1,Completed
+U000354,"Low Value",Dormant,1,0,1,1,0,1,0,1,Participated
+U002452,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U002473,Non-Payer,Active,1,3,4,1,0,1,0,1,Participated
+U002865,"Medium Value",Active,1,10,11,9,1,9,0,1,Completed
+U000545,"Medium Value",Churned,1,13,14,9,1,9,1,1,"Grand Prize"
+U001141,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U000510,Non-Payer,At-Risk,1,11,12,9,1,9,0,1,Completed
+U001334,"Medium Value",Churned,1,14,15,9,1,9,0,1,Completed
+U001338,Non-Payer,At-Risk,1,0,1,1,0,1,0,1,Participated
+U001953,Non-Payer,At-Risk,1,0,1,1,0,1,0,1,Participated
+U000752,"Low Value",Active,1,9,10,9,1,9,0,1,Completed
+U002530,"Medium Value",Churned,1,0,1,1,0,1,0,1,Participated
+U002870,"Low Value",Churned,1,12,13,9,1,9,0,1,Completed
+U001641,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U000699,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U002927,"Low Value",At-Risk,1,0,1,1,0,1,0,1,Participated
+U002561,Non-Payer,Dormant,1,0,1,1,0,1,0,1,Participated
+U000278,"Medium Value",At-Risk,1,6,7,1,0,1,0,1,Participated
+U001816,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U000309,"Low Value",At-Risk,1,0,1,1,0,1,0,1,Participated
+U001600,"Low Value",At-Risk,1,10,11,9,1,9,0,1,Completed
+U001145,"Low Value",Active,1,0,1,1,0,1,0,1,Participated
+U000001,"Low Value",At-Risk,1,14,15,9,1,9,1,1,"Grand Prize"
+U001738,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U001469,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U000771,"Low Value",Dormant,1,0,1,1,0,1,0,1,Participated
+U000079,"Medium Value",Dormant,1,0,1,1,0,1,0,1,Participated
+U002352,Non-Payer,At-Risk,1,0,1,1,0,1,0,1,Participated
+U000372,Non-Payer,Dormant,1,0,1,1,0,1,0,1,Participated
+U001187,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U000288,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U001893,"Low Value",Active,1,11,12,9,1,9,1,1,"Grand Prize"
+U002930,Non-Payer,Dormant,1,0,1,1,0,1,0,1,Participated
+U000093,"Low Value",Active,1,10,11,9,1,9,1,1,"Grand Prize"
+U000968,Non-Payer,At-Risk,1,0,1,1,0,1,0,1,Participated
+U001711,"Medium Value",At-Risk,1,12,13,9,1,9,1,1,"Grand Prize"
+U001245,Non-Payer,At-Risk,1,7,8,2,0,2,0,1,Participated
+U002517,"Low Value",At-Risk,1,13,14,9,1,9,1,1,"Grand Prize"
+U002514,"Low Value",Active,1,3,4,4,0,4,0,1,Participated
+U000497,"Low Value",Active,1,5,6,2,0,2,0,1,Participated
+U000586,Non-Payer,Dormant,1,0,1,1,0,1,0,1,Participated
+U002621,"Medium Value",Churned,1,11,12,9,1,9,1,1,"Grand Prize"
+U002959,"Low Value",Dormant,1,10,11,9,1,9,1,1,"Grand Prize"
+U002966,"Low Value",Churned,1,0,1,1,0,1,0,1,Participated
+U000747,"Medium Value",Dormant,1,14,15,9,1,9,1,1,"Grand Prize"
+U002889,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U000762,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U000324,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U000729,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U002267,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U000492,Non-Payer,Dormant,1,1,2,1,0,1,0,1,Participated
+U000524,Non-Payer,At-Risk,1,11,12,9,1,9,1,1,"Grand Prize"
+U002408,"Low Value",Dormant,1,0,1,1,0,1,0,1,Participated
+U001255,"Low Value",At-Risk,1,0,1,1,0,1,0,1,Participated
+U001932,"Medium Value",Active,1,8,9,9,1,9,0,1,Completed
+U001024,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U001709,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U001747,"Medium Value",At-Risk,1,4,5,2,0,2,0,1,Participated
+U001049,Non-Payer,Active,1,1,2,2,0,2,0,1,Participated
+U000888,"Medium Value",Active,1,11,12,9,1,9,0,1,Completed
+U000452,"Low Value",Active,1,0,1,1,0,1,0,1,Participated
+U002763,"Low Value",Active,1,9,10,9,1,9,1,1,"Grand Prize"
+U002182,"Medium Value",Active,1,8,9,9,1,9,0,1,Completed
+U002226,"Medium Value",At-Risk,1,12,13,9,1,9,0,1,Completed
+U002425,Non-Payer,Dormant,1,0,1,1,0,1,0,1,Participated
+U001064,Non-Payer,Churned,1,0,1,1,0,1,0,1,Participated
+U001154,"Medium Value",Dormant,1,9,10,9,1,9,0,1,Completed
+U000658,"High Value",Active,1,11,12,9,1,9,0,1,Completed
+U001438,"Medium Value",Active,1,14,15,9,1,9,0,1,Completed
+U000291,"Low Value",Active,1,0,1,1,0,1,0,1,Participated
+U001745,"Low Value",Active,1,13,14,9,1,9,1,1,"Grand Prize"
+U000691,"Low Value",Dormant,1,4,5,3,0,3,0,1,Participated
+U000444,"Low Value",At-Risk,1,0,1,1,0,1,0,1,Participated
+U000920,"Low Value",Active,1,10,11,9,1,9,1,1,"Grand Prize"
+U002685,"Medium Value",Dormant,1,0,1,1,0,1,0,1,Participated
+U002019,"Low Value",Active,1,10,11,9,1,9,1,1,"Grand Prize"
+U000293,Non-Payer,Churned,1,0,1,1,0,1,0,1,Participated
+U001249,"Low Value",Dormant,1,3,4,4,0,4,0,1,Participated
+U000148,"Medium Value",Active,1,14,15,9,1,9,1,1,"Grand Prize"
+U002355,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U000010,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U001048,"Medium Value",Dormant,1,14,15,9,1,9,0,1,Completed
+U000991,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U001115,"Medium Value",At-Risk,1,3,4,3,0,3,0,1,Participated
+U002490,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U000219,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U000901,Non-Payer,Dormant,1,3,4,1,0,1,0,1,Participated
+U001181,Non-Payer,Dormant,1,0,1,1,0,1,0,1,Participated
+U002342,"High Value",At-Risk,1,10,11,9,1,9,1,1,"Grand Prize"
+U000445,"Low Value",Active,1,14,15,9,1,9,1,1,"Grand Prize"
+U000055,"Low Value",Active,1,7,8,2,0,2,0,1,Participated
+U002184,Non-Payer,Active,1,3,4,2,0,2,0,1,Participated
+U002128,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U002330,"Low Value",Active,1,14,15,9,1,9,0,1,Completed
+U001225,Non-Payer,Active,1,5,6,4,0,4,0,1,Participated
+U002746,"Low Value",At-Risk,1,6,7,6,0,6,0,1,Participated
+U000088,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U001650,Non-Payer,Churned,1,0,1,1,0,1,0,1,Participated
+U000412,"High Value",At-Risk,1,9,10,9,1,9,0,1,Completed
+U001166,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U001956,Non-Payer,At-Risk,1,0,1,1,0,1,0,1,Participated
+U000122,"Low Value",Active,1,0,1,1,0,1,0,1,Participated
+U001918,"Low Value",Active,1,13,14,9,1,9,1,1,"Grand Prize"
+U001980,"Medium Value",Active,1,8,9,9,1,9,0,1,Completed
+U002938,"High Value",At-Risk,1,11,12,9,1,9,1,1,"Grand Prize"
+U002733,"Medium Value",At-Risk,1,11,12,9,1,9,1,1,"Grand Prize"
+U001283,"Low Value",Dormant,1,1,2,1,0,1,0,1,Participated
+U002142,"Low Value",Active,1,8,9,9,1,9,1,1,"Grand Prize"
+U001351,"Low Value",Active,1,0,1,1,0,1,0,1,Participated
+U002073,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U002743,Non-Payer,Active,1,3,4,1,0,1,0,1,Participated
+U001045,"Low Value",Dormant,1,0,1,1,0,1,0,1,Participated
+U001143,"Low Value",Active,1,4,5,5,0,5,0,1,Participated
+U001151,"Low Value",Active,1,14,15,9,1,9,0,1,Completed
+U002037,"Medium Value",Dormant,1,9,10,9,1,9,1,1,"Grand Prize"
+U000185,"Medium Value",At-Risk,1,12,13,9,1,9,1,1,"Grand Prize"
+U002777,"Medium Value",Active,1,8,9,9,1,9,1,1,"Grand Prize"
+U002952,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U002910,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U002293,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U000409,"Medium Value",Active,1,13,14,9,1,9,1,1,"Grand Prize"
+U000228,Non-Payer,Dormant,1,0,1,1,0,1,0,1,Participated
+U000457,"Low Value",At-Risk,1,0,1,1,0,1,0,1,Participated
+U000624,"Low Value",Active,1,0,1,1,0,1,0,1,Participated
+U000507,"Low Value",Active,1,11,12,9,1,9,0,1,Completed
+U001013,"Medium Value",Active,1,9,10,9,1,9,0,1,Completed
+U001892,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U000540,"Low Value",Active,1,4,5,3,0,3,0,1,Participated
+U001931,"Low Value",Active,1,0,1,1,0,1,0,1,Participated
+U000157,"Medium Value",Active,1,10,11,9,1,9,0,1,Completed
+U001844,"Low Value",Active,1,2,3,2,0,2,0,1,Participated
+U001985,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U001113,"Medium Value",At-Risk,1,8,9,9,1,9,0,1,Completed
+U001755,"Low Value",Active,1,5,6,2,0,2,0,1,Participated
+U002222,"High Value",Dormant,1,9,10,9,1,9,0,1,Completed
+U002296,"Low Value",Churned,1,0,1,1,0,1,0,1,Participated
+U001038,Non-Payer,At-Risk,1,0,1,1,0,1,0,1,Participated
+U000182,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U000737,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U001258,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U002919,"Medium Value",At-Risk,1,8,9,9,1,9,1,1,"Grand Prize"
+U000551,"Medium Value",Active,1,10,11,9,1,9,1,1,"Grand Prize"
+U000854,Non-Payer,At-Risk,1,0,1,1,0,1,0,1,Participated
+U002335,"Medium Value",Active,1,9,10,9,1,9,1,1,"Grand Prize"
+U002652,Non-Payer,Churned,1,0,1,1,0,1,0,1,Participated
+U000011,"Low Value",Active,1,0,1,1,0,1,0,1,Participated
+U001384,Non-Payer,Active,1,6,7,7,0,7,0,1,Participated
+U000590,"Low Value",At-Risk,1,0,1,1,0,1,0,1,Participated
+U001730,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U001885,Non-Payer,At-Risk,1,3,4,3,0,3,0,1,Participated
+U001543,"Medium Value",At-Risk,1,9,10,9,1,9,1,1,"Grand Prize"
+U000039,Non-Payer,At-Risk,1,0,1,1,0,1,0,1,Participated
+U000468,"Low Value",Active,1,9,10,9,1,9,0,1,Completed
+U002276,"Low Value",Active,1,5,6,3,0,3,0,1,Participated
+U002110,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U001698,"Low Value",Active,1,13,14,9,1,9,1,1,"Grand Prize"
+U002971,Non-Payer,At-Risk,1,0,1,1,0,1,0,1,Participated
+U002229,"Medium Value",At-Risk,1,9,10,9,1,9,0,1,Completed
+U000587,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U001286,"Medium Value",Active,1,9,10,9,1,9,1,1,"Grand Prize"
+U000709,Non-Payer,Dormant,1,0,1,1,0,1,0,1,Participated
+U001175,"Low Value",At-Risk,1,0,1,1,0,1,0,1,Participated
+U002438,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U002273,"Low Value",Dormant,1,0,1,1,0,1,0,1,Participated
+U002953,"Medium Value",At-Risk,1,1,2,2,0,2,0,1,Participated
+U001326,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U000104,Non-Payer,Churned,1,0,1,1,0,1,0,1,Participated
+U000830,"Low Value",Active,1,13,14,9,1,9,0,1,Completed
+U002567,"Low Value",Churned,1,10,11,9,1,9,1,1,"Grand Prize"
+U001617,"Medium Value",Active,1,0,1,1,0,1,0,1,Participated
+U001196,"Low Value",Active,1,0,1,1,0,1,0,1,Participated
+U000620,Non-Payer,Active,1,14,15,9,1,9,0,1,Completed
+U000103,Non-Payer,Active,1,6,7,1,0,1,0,1,Participated
+U002032,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U001690,"Low Value",Dormant,1,0,1,1,0,1,0,1,Participated
+U001726,Non-Payer,At-Risk,1,0,1,1,0,1,0,1,Participated
+U002726,"High Value",Active,1,11,12,9,1,9,0,1,Completed
+U002380,"High Value",Active,1,10,11,9,1,9,0,1,Completed
+U001492,"High Value",At-Risk,1,10,11,9,1,9,0,1,Completed
+U001616,"High Value",Churned,1,14,15,9,1,9,1,1,"Grand Prize"
+U002521,Non-Payer,At-Risk,1,0,1,1,0,1,0,1,Participated
+U002027,"Low Value",Churned,1,14,15,9,1,9,1,1,"Grand Prize"
+U000724,"High Value",Active,1,10,11,9,1,9,1,1,"Grand Prize"
+U001601,"Low Value",Dormant,1,13,14,9,1,9,0,1,Completed
+U002440,"Medium Value",Churned,1,9,10,9,1,9,1,1,"Grand Prize"
+U002972,"Medium Value",Active,1,8,9,9,1,9,1,1,"Grand Prize"
+U001572,"High Value",Dormant,1,9,10,9,1,9,1,1,"Grand Prize"
+U001472,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U000082,"Low Value",At-Risk,1,0,1,1,0,1,0,1,Participated
+U002170,"Low Value",Churned,1,14,15,9,1,9,1,1,"Grand Prize"
+U001419,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U000835,"Low Value",Dormant,1,13,14,9,1,9,1,1,"Grand Prize"
+U000087,Non-Payer,Churned,1,0,1,1,0,1,0,1,Participated
+U000437,Non-Payer,Active,1,9,10,9,1,9,0,1,Completed
+U001852,"High Value",At-Risk,1,14,15,9,1,9,1,1,"Grand Prize"
+U002970,"Low Value",Active,1,12,13,9,1,9,0,1,Completed
+U001625,"Low Value",Dormant,1,0,1,1,0,1,0,1,Participated
+U000153,"Low Value",Churned,1,12,13,9,1,9,0,1,Completed
+U001699,"Low Value",Dormant,1,0,1,1,0,1,0,1,Participated
+U001651,"Low Value",Active,1,0,1,1,0,1,0,1,Participated
+U000118,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U002454,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U002370,"Low Value",Dormant,1,9,10,9,1,9,0,1,Completed
+U002634,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U001402,"Low Value",Active,1,0,1,1,0,1,0,1,Participated
+U001950,"Low Value",Active,1,0,1,1,0,1,0,1,Participated
+U000351,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U002031,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U000980,"Low Value",Active,1,5,6,5,0,5,0,1,Participated
+U002795,"High Value",Active,1,13,14,9,1,9,0,1,Completed
+U002871,Non-Payer,At-Risk,1,6,7,4,0,4,0,1,Participated
+U001110,Non-Payer,At-Risk,1,0,1,1,0,1,0,1,Participated
+U001790,"Low Value",Active,1,11,12,9,1,9,0,1,Completed
+U002451,"Low Value",Active,1,0,1,1,0,1,0,1,Participated
+U000676,"Low Value",Dormant,1,10,11,9,1,9,1,1,"Grand Prize"
+U001073,Whale,Dormant,1,9,10,9,1,9,1,1,"Grand Prize"
+U001182,"Low Value",Active,1,0,1,1,0,1,0,1,Participated
+U001376,"Low Value",Dormant,1,11,12,9,1,9,0,1,Completed
+U001464,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U000194,Non-Payer,Dormant,1,0,1,1,0,1,0,1,Participated
+U002511,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U000894,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U002413,"Medium Value",Active,1,13,14,9,1,9,0,1,Completed
+U002676,"Medium Value",Active,1,14,15,9,1,9,0,1,Completed
+U000349,"Low Value",Active,1,14,15,9,1,9,0,1,Completed
+U002383,"Low Value",Active,1,12,13,9,1,9,0,1,Completed
+U001633,"Low Value",Active,1,5,6,6,0,6,0,1,Participated
+U001001,Non-Payer,Active,1,1,2,2,0,2,0,1,Participated
+U000530,Non-Payer,Dormant,1,0,1,1,0,1,0,1,Participated
+U000206,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U002378,"High Value",Active,1,14,15,9,1,9,0,1,Completed
+U001336,"Low Value",Active,1,0,1,1,0,1,0,1,Participated
+U000471,Non-Payer,Dormant,1,0,1,1,0,1,0,1,Participated
+U001692,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U001178,"High Value",At-Risk,1,13,14,9,1,9,0,1,Completed
+U000749,Non-Payer,Active,1,10,11,9,1,9,0,1,Completed
+U002712,"Low Value",Active,1,0,1,1,0,1,0,1,Participated
+U002201,"Low Value",Active,1,9,10,9,1,9,0,1,Completed
+U000776,"High Value",At-Risk,1,10,11,9,1,9,0,1,Completed
+U001173,"Low Value",Active,1,0,1,1,0,1,0,1,Participated
+U000689,"Low Value",Active,1,8,9,9,1,9,1,1,"Grand Prize"
+U002208,Non-Payer,Dormant,1,0,1,1,0,1,0,1,Participated
+U001271,"Low Value",Churned,1,0,1,1,0,1,0,1,Participated
+U001085,"High Value",Dormant,1,8,9,9,1,9,1,1,"Grand Prize"
+U002537,Non-Payer,Dormant,1,0,1,1,0,1,0,1,Participated
+U001791,"Low Value",Active,1,10,11,9,1,9,1,1,"Grand Prize"
+U002456,"Medium Value",Active,1,8,9,9,1,9,0,1,Completed
+U001944,"Low Value",Active,1,0,1,1,0,1,0,1,Participated
+U002693,"Low Value",Active,1,1,2,2,0,2,0,1,Participated
+U001750,"Low Value",Active,1,0,1,1,0,1,0,1,Participated
+U000322,"Low Value",At-Risk,1,0,1,1,0,1,0,1,Participated
+U001328,"Low Value",Active,1,0,1,1,0,1,0,1,Participated
+U001344,"Low Value",Active,1,0,1,1,0,1,0,1,Participated
+U001626,"Medium Value",Active,1,11,12,9,1,9,0,1,Completed
+U002243,Non-Payer,Dormant,1,0,1,1,0,1,0,1,Participated
+U000317,"Low Value",Active,1,8,9,9,1,9,0,1,Completed
+U000725,"Medium Value",Dormant,1,12,13,9,1,9,1,1,"Grand Prize"
+U001022,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U001982,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U002189,"Medium Value",Active,1,11,12,9,1,9,0,1,Completed
+U002849,"Low Value",At-Risk,1,8,9,9,1,9,0,1,Completed
+U001964,"Low Value",At-Risk,1,12,13,9,1,9,0,1,Completed
+U001372,"Low Value",At-Risk,1,13,14,9,1,9,0,1,Completed
+U001568,"Low Value",At-Risk,1,8,9,9,1,9,0,1,Completed
+U000985,"Low Value",Active,1,0,1,1,0,1,0,1,Participated
+U000076,"Medium Value",Active,1,14,15,9,1,9,0,1,Completed
+U000262,Non-Payer,Churned,1,0,1,1,0,1,0,1,Participated
+U000634,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U001644,"Low Value",At-Risk,1,5,6,2,0,2,0,1,Participated
+U001987,"Low Value",Dormant,1,4,5,5,0,5,0,1,Participated
+U002307,Non-Payer,Active,1,11,12,9,1,9,1,1,"Grand Prize"
+U001700,"Low Value",At-Risk,1,8,9,9,1,9,0,1,Completed
+U000040,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U002410,Non-Payer,Dormant,1,0,1,1,0,1,0,1,Participated
+U002291,"High Value",Active,1,11,12,9,1,9,0,1,Completed
+U001777,"Medium Value",At-Risk,1,14,15,9,1,9,0,1,Completed
+U001842,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U001360,"Low Value",Active,1,0,1,1,0,1,0,1,Participated
+U001125,"Low Value",Active,1,3,4,1,0,1,0,1,Participated
+U001408,"Low Value",Dormant,1,0,1,1,0,1,0,1,Participated
+U002115,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U001451,"Medium Value",Churned,1,9,10,9,1,9,1,1,"Grand Prize"
+U001473,"Medium Value",Churned,1,10,11,9,1,9,0,1,Completed
+U000956,"Low Value",At-Risk,1,4,5,3,0,3,0,1,Participated
+U002198,"Low Value",At-Risk,1,0,1,1,0,1,0,1,Participated
+U000009,"High Value",Active,1,14,15,9,1,9,1,1,"Grand Prize"
+U002812,"Low Value",At-Risk,1,11,12,9,1,9,1,1,"Grand Prize"
+U002505,Non-Payer,Dormant,1,0,1,1,0,1,0,1,Participated
+U000181,Non-Payer,At-Risk,1,0,1,1,0,1,0,1,Participated
+U001537,Non-Payer,Dormant,1,0,1,1,0,1,0,1,Participated
+U002690,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U002363,"Medium Value",Active,1,13,14,9,1,9,0,1,Completed
+U000603,Non-Payer,At-Risk,1,7,8,4,0,4,0,1,Participated
+U002286,Non-Payer,Active,1,6,7,6,0,6,0,1,Participated
+U002188,"Medium Value",Active,1,10,11,9,1,9,0,1,Completed
+U002755,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U002306,"Low Value",Active,1,10,11,9,1,9,0,1,Completed
+U001308,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U002415,"Low Value",Churned,1,0,1,1,0,1,0,1,Participated
+U002913,Non-Payer,At-Risk,1,0,1,1,0,1,0,1,Participated
+U002499,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U000116,"Low Value",Active,1,13,14,9,1,9,0,1,Completed
+U000111,"Medium Value",Active,1,11,12,9,1,9,1,1,"Grand Prize"
+U001347,Whale,Active,1,14,15,9,1,9,0,1,Completed
+U000396,"Low Value",Active,1,0,1,1,0,1,0,1,Participated
+U001751,"Low Value",At-Risk,1,8,9,9,1,9,1,1,"Grand Prize"
+U001882,"Low Value",Active,1,0,1,1,0,1,0,1,Participated
+U001541,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U000804,"Medium Value",Active,1,9,10,9,1,9,0,1,Completed
+U001582,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U001032,"Low Value",Active,1,10,11,9,1,9,0,1,Completed
+U001969,"Medium Value",Active,1,0,1,1,0,1,0,1,Participated
+U002010,Non-Payer,Dormant,1,0,1,1,0,1,0,1,Participated
+U001027,"Low Value",At-Risk,1,10,11,9,1,9,0,1,Completed
+U002917,Non-Payer,Churned,1,0,1,1,0,1,0,1,Participated
+U002244,"High Value",Active,1,8,9,9,1,9,0,1,Completed
+U001805,"Medium Value",Active,1,12,13,9,1,9,0,1,Completed
+U000028,Non-Payer,Active,1,3,4,4,0,4,0,1,Participated
+U001515,"Medium Value",Active,1,10,11,9,1,9,1,1,"Grand Prize"
+U002694,"Medium Value",Churned,1,10,11,9,1,9,1,1,"Grand Prize"
+U002343,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U002717,"Medium Value",Active,1,9,10,9,1,9,1,1,"Grand Prize"
+U000224,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U002692,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U002854,Non-Payer,Dormant,1,0,1,1,0,1,0,1,Participated
+U002986,"Low Value",Active,1,0,1,1,0,1,0,1,Participated
+U002130,"Low Value",Active,1,12,13,9,1,9,1,1,"Grand Prize"
+U001799,Non-Payer,At-Risk,1,0,1,1,0,1,0,1,Participated
+U001624,Non-Payer,Dormant,1,0,1,1,0,1,0,1,Participated
+U000884,Non-Payer,Active,1,4,5,5,0,5,0,1,Participated
+U001520,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U001732,"High Value",At-Risk,1,9,10,9,1,9,1,1,"Grand Prize"
+U002911,"Low Value",Active,1,9,10,9,1,9,1,1,"Grand Prize"
+U002011,"Low Value",Active,1,6,7,4,0,4,0,1,Participated
+U000300,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U002301,"Medium Value",Active,1,10,11,9,1,9,1,1,"Grand Prize"
+U002848,Non-Payer,At-Risk,1,11,12,9,1,9,0,1,Completed
+U002108,"Medium Value",Active,1,11,12,9,1,9,0,1,Completed
+U000183,Non-Payer,Dormant,1,0,1,1,0,1,0,1,Participated
+U002216,"Low Value",Active,1,9,10,9,1,9,1,1,"Grand Prize"
+U002552,Non-Payer,At-Risk,1,0,1,1,0,1,0,1,Participated
+U001674,Non-Payer,At-Risk,1,3,4,3,0,3,0,1,Participated
+U002718,"High Value",Active,1,14,15,9,1,9,0,1,Completed
+U002277,"Low Value",Active,1,0,1,1,0,1,0,1,Participated
+U002781,"Medium Value",At-Risk,1,11,12,9,1,9,0,1,Completed
+U000970,"Low Value",At-Risk,1,12,13,9,1,9,1,1,"Grand Prize"
+U002271,Non-Payer,At-Risk,1,0,1,1,0,1,0,1,Participated
+U000502,Non-Payer,At-Risk,1,0,1,1,0,1,0,1,Participated
+U000926,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U001847,"Low Value",Active,1,4,5,3,0,3,0,1,Participated
+U000378,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U000158,Non-Payer,At-Risk,1,0,1,1,0,1,0,1,Participated
+U001325,"Low Value",Active,1,0,1,1,0,1,0,1,Participated
+U002688,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U002722,"Low Value",At-Risk,1,0,1,1,0,1,0,1,Participated
+U002868,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U000995,"Medium Value",Active,1,11,12,9,1,9,0,1,Completed
+U001807,"Low Value",Active,1,0,1,1,0,1,0,1,Participated
+U000826,"Low Value",Active,1,7,8,1,0,1,0,1,Participated
+U002317,"Medium Value",At-Risk,1,2,3,1,0,1,0,1,Participated
+U001562,"Low Value",Active,1,8,9,9,1,9,1,1,"Grand Prize"
+U002640,Non-Payer,Churned,1,0,1,1,0,1,0,1,Participated
+U002597,"Low Value",Active,1,0,1,1,0,1,0,1,Participated
+U000101,"Low Value",At-Risk,1,0,1,1,0,1,0,1,Participated
+U002416,"Low Value",Active,1,13,14,9,1,9,0,1,Completed
+U001532,"Low Value",Churned,1,0,1,1,0,1,0,1,Participated
+U001443,Non-Payer,Active,1,3,4,4,0,4,0,1,Participated
+U001385,"Medium Value",Churned,1,0,1,1,0,1,0,1,Participated
+U002612,"Low Value",Active,1,0,1,1,0,1,0,1,Participated
+U001409,"Low Value",At-Risk,1,14,15,9,1,9,1,1,"Grand Prize"
+U001810,"Low Value",Active,1,7,8,3,0,3,0,1,Participated
+U001623,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U001070,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U002977,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U001518,Non-Payer,At-Risk,1,0,1,1,0,1,0,1,Participated
+U001659,"Low Value",Dormant,1,0,1,1,0,1,0,1,Participated
+U001206,Non-Payer,Churned,1,0,1,1,0,1,0,1,Participated
+U001068,Non-Payer,Active,1,4,5,2,0,2,0,1,Participated
+U001019,"Low Value",Dormant,1,0,1,1,0,1,0,1,Participated
+U000473,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U001879,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U000003,"Low Value",Active,1,0,1,1,0,1,0,1,Participated
+U000155,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U002680,"Low Value",Active,1,12,13,9,1,9,1,1,"Grand Prize"
+U000556,"Low Value",Active,1,0,1,1,0,1,0,1,Participated
+U001716,"Medium Value",Active,1,11,12,9,1,9,0,1,Completed
+U000897,"Medium Value",At-Risk,1,8,9,9,1,9,1,1,"Grand Prize"
+U000646,Non-Payer,At-Risk,1,0,1,1,0,1,0,1,Participated
+U002156,Non-Payer,At-Risk,1,2,3,1,0,1,0,1,Participated
+U001007,Non-Payer,At-Risk,1,0,1,1,0,1,0,1,Participated
+U002783,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U000094,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U001261,"Low Value",Active,1,12,13,9,1,9,1,1,"Grand Prize"
+U002366,"Low Value",Dormant,1,11,12,9,1,9,1,1,"Grand Prize"
+U002377,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U002202,Non-Payer,Dormant,1,0,1,1,0,1,0,1,Participated
+U000657,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U001854,"Low Value",Churned,1,14,15,9,1,9,0,1,Completed
+U002842,"Low Value",Churned,1,0,1,1,0,1,0,1,Participated
+U001381,Non-Payer,Churned,1,0,1,1,0,1,0,1,Participated
+U002471,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U001757,Non-Payer,Active,1,1,2,2,0,2,0,1,Participated
+U002265,"High Value",Active,1,13,14,9,1,9,0,1,Completed
+U000056,Non-Payer,At-Risk,1,0,1,1,0,1,0,1,Participated
+U001188,Non-Payer,Active,1,1,2,2,0,2,0,1,Participated
+U002936,Non-Payer,Active,1,1,2,1,0,1,0,1,Participated
+U000520,"Low Value",Dormant,1,0,1,1,0,1,0,1,Participated
+U001527,"Low Value",At-Risk,1,14,15,9,1,9,0,1,Completed
+U001430,"Low Value",Active,1,10,11,9,1,9,1,1,"Grand Prize"
+U000714,"Low Value",Active,1,14,15,9,1,9,0,1,Completed
+U000768,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U001452,"Low Value",Active,1,12,13,9,1,9,1,1,"Grand Prize"
+U000622,Non-Payer,Churned,1,0,1,1,0,1,0,1,Participated
+U000266,"Medium Value",Active,1,0,1,1,0,1,0,1,Participated
+U002180,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U000022,"Medium Value",Active,1,13,14,9,1,9,1,1,"Grand Prize"
+U000584,"Medium Value",At-Risk,1,11,12,9,1,9,1,1,"Grand Prize"
+U001495,"Low Value",At-Risk,1,0,1,1,0,1,0,1,Participated
+U001317,"Medium Value",Active,1,2,3,1,0,1,0,1,Participated
+U002796,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U002295,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U001656,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U002022,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U002914,"Low Value",Active,1,0,1,1,0,1,0,1,Participated
+U002677,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U000825,Non-Payer,At-Risk,1,0,1,1,0,1,0,1,Participated
+U000789,"Low Value",At-Risk,1,0,1,1,0,1,0,1,Participated
+U001511,"Low Value",Dormant,1,5,6,5,0,5,0,1,Participated
+U001819,Non-Payer,At-Risk,1,0,1,1,0,1,0,1,Participated
+U000720,Whale,Dormant,1,12,13,9,1,9,0,1,Completed
+U000936,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U001246,"Medium Value",Active,1,13,14,9,1,9,1,1,"Grand Prize"
+U000285,Non-Payer,Dormant,1,0,1,1,0,1,0,1,Participated
+U002314,"Low Value",Dormant,1,0,1,1,0,1,0,1,Participated
+U002263,"Low Value",Active,1,0,1,1,0,1,0,1,Participated
+U000439,"High Value",Active,1,9,10,9,1,9,0,1,Completed
+U001307,Non-Payer,At-Risk,1,0,1,1,0,1,0,1,Participated
+U000377,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U000505,"Low Value",Active,1,12,13,9,1,9,1,1,"Grand Prize"
+U000265,Non-Payer,Active,1,9,10,9,1,9,1,1,"Grand Prize"
+U001276,"Low Value",Active,1,14,15,9,1,9,0,1,Completed
+U002000,"Low Value",Active,1,13,14,9,1,9,0,1,Completed
+U000261,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U001843,"Medium Value",Active,1,0,1,1,0,1,0,1,Participated
+U000801,"Low Value",Dormant,1,0,1,1,0,1,0,1,Participated
+U000059,"Medium Value",Active,1,9,10,9,1,9,0,1,Completed
+U000573,Non-Payer,At-Risk,1,0,1,1,0,1,0,1,Participated
+U001146,Non-Payer,At-Risk,1,0,1,1,0,1,0,1,Participated
+U001205,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U001476,"High Value",Active,1,13,14,9,1,9,0,1,Completed
+U000692,Non-Payer,Active,1,13,14,9,1,9,0,1,Completed
+U002321,"Medium Value",At-Risk,1,8,9,9,1,9,0,1,Completed
+U002225,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U001984,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U001833,"Low Value",Active,1,10,11,9,1,9,0,1,Completed
+U000757,"Low Value",Active,1,0,1,1,0,1,0,1,Participated
+U002645,"Low Value",Churned,1,1,2,1,0,1,0,1,Participated
+U001020,"Low Value",Churned,1,8,9,9,1,9,0,1,Completed
+U000562,Non-Payer,Dormant,1,0,1,1,0,1,0,1,Participated
+U001293,"Medium Value",Active,1,11,12,9,1,9,0,1,Completed
+U002593,"Low Value",Active,1,2,3,1,0,1,0,1,Participated
+U002033,"Medium Value",Churned,1,9,10,9,1,9,0,1,Completed
+U001851,"Low Value",Active,1,7,8,6,0,6,0,1,Participated
+U000191,"Medium Value",At-Risk,1,13,14,9,1,9,0,1,Completed
+U000818,"Low Value",Active,1,0,1,1,0,1,0,1,Participated
+U000681,"Medium Value",At-Risk,1,6,7,2,0,2,0,1,Participated
+U002661,"Medium Value",At-Risk,1,8,9,9,1,9,1,1,"Grand Prize"
+U001163,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U001670,"Low Value",Active,1,0,1,1,0,1,0,1,Participated
+U002448,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U001062,Non-Payer,At-Risk,1,7,8,4,0,4,0,1,Participated
+U000487,"Low Value",At-Risk,1,8,9,9,1,9,1,1,"Grand Prize"
+U000371,Non-Payer,At-Risk,1,0,1,1,0,1,0,1,Participated
+U002841,"Low Value",Active,1,0,1,1,0,1,0,1,Participated
+U001160,"Medium Value",At-Risk,1,8,9,9,1,9,0,1,Completed
+U000050,"Medium Value",Dormant,1,11,12,9,1,9,0,1,Completed
+U002737,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U000988,Non-Payer,Dormant,1,0,1,1,0,1,0,1,Participated
+U000521,"Low Value",Active,1,10,11,9,1,9,0,1,Completed
+U002483,Non-Payer,Churned,1,0,1,1,0,1,0,1,Participated
+U002823,"Medium Value",Active,1,13,14,9,1,9,0,1,Completed
+U002727,Non-Payer,At-Risk,1,2,3,2,0,2,0,1,Participated
+U001345,"High Value",Active,1,12,13,9,1,9,1,1,"Grand Prize"
+U000166,"High Value",Active,1,12,13,9,1,9,1,1,"Grand Prize"
+U002958,"Low Value",Active,1,7,8,7,0,7,0,1,Participated
+U001798,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U001407,"Low Value",Active,1,12,13,9,1,9,0,1,Completed
+U002706,Non-Payer,Dormant,1,0,1,1,0,1,0,1,Participated
+U002891,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U000486,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U002825,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U001481,"Medium Value",Active,1,4,5,1,0,1,0,1,Participated
+U000685,Non-Payer,Dormant,1,0,1,1,0,1,0,1,Participated
+U000613,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U002558,"High Value",Active,1,10,11,9,1,9,0,1,Completed
+U002278,Non-Payer,Active,1,4,5,3,0,3,0,1,Participated
+U000775,Non-Payer,At-Risk,1,0,1,1,0,1,0,1,Participated
+U002450,"Low Value",At-Risk,1,13,14,9,1,9,0,1,Completed
+U001676,"Low Value",Dormant,1,1,2,2,0,2,0,1,Participated
+U002609,"Low Value",Active,1,13,14,9,1,9,0,1,Completed
+U000167,"Medium Value",Active,1,12,13,9,1,9,1,1,"Grand Prize"
+U001369,"Medium Value",Active,1,4,5,5,0,5,0,1,Participated
+U002674,Non-Payer,Churned,1,0,1,1,0,1,0,1,Participated
+U002756,"Low Value",At-Risk,1,0,1,1,0,1,0,1,Participated
+U002797,"Low Value",Dormant,1,0,1,1,0,1,0,1,Participated
+U000805,"Medium Value",Active,1,13,14,9,1,9,0,1,Completed
+U001290,"Low Value",Active,1,11,12,9,1,9,1,1,"Grand Prize"
+U001088,Non-Payer,Dormant,1,0,1,1,0,1,0,1,Participated
+U002127,"Low Value",Churned,1,0,1,1,0,1,0,1,Participated
+U001356,"Medium Value",Dormant,1,9,10,9,1,9,1,1,"Grand Prize"
+U000930,"Low Value",Active,1,13,14,9,1,9,1,1,"Grand Prize"
+U001417,Non-Payer,Active,1,5,6,4,0,4,0,1,Participated
+U002820,"Low Value",Dormant,1,0,1,1,0,1,0,1,Participated
+U002562,"Low Value",Active,1,0,1,1,0,1,0,1,Participated
+U001006,Non-Payer,At-Risk,1,0,1,1,0,1,0,1,Participated
+U000851,Non-Payer,Churned,1,0,1,1,0,1,0,1,Participated
+U002332,"Low Value",Active,1,9,10,9,1,9,1,1,"Grand Prize"
+U001256,"Medium Value",Churned,1,0,1,1,0,1,0,1,Participated
+U001962,"Low Value",Dormant,1,0,1,1,0,1,0,1,Participated
+U002894,"Low Value",At-Risk,1,9,10,9,1,9,0,1,Completed
+U002987,"Medium Value",Churned,1,8,9,9,1,9,1,1,"Grand Prize"
+U000102,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U000649,"Low Value",Dormant,1,0,1,1,0,1,0,1,Participated
+U002637,"Low Value",Active,1,7,8,5,0,5,0,1,Participated
+U002191,"Low Value",Dormant,1,9,10,9,1,9,0,1,Completed
+U002432,"Low Value",At-Risk,1,3,4,4,0,4,0,1,Participated
+U002664,"Medium Value",Dormant,1,8,9,9,1,9,1,1,"Grand Prize"
+U001673,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U001513,"Medium Value",Active,1,11,12,9,1,9,1,1,"Grand Prize"
+U001349,"Low Value",Active,1,9,10,9,1,9,0,1,Completed
+U000889,Non-Payer,Dormant,1,0,1,1,0,1,0,1,Participated
+U002442,"Low Value",Dormant,1,12,13,9,1,9,0,1,Completed
+U002976,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U001966,Non-Payer,At-Risk,1,0,1,1,0,1,0,1,Participated
+U000833,"Low Value",Active,1,0,1,1,0,1,0,1,Participated
+U000435,Whale,Active,1,13,14,9,1,9,0,1,Completed
+U001179,Non-Payer,At-Risk,1,0,1,1,0,1,0,1,Participated
+U001099,"Medium Value",Dormant,1,8,9,9,1,9,1,1,"Grand Prize"
+U000986,"Low Value",Active,1,9,10,9,1,9,0,1,Completed
+U002808,"Low Value",Active,1,0,1,1,0,1,0,1,Participated
+U000407,"Low Value",Active,1,4,5,4,0,4,0,1,Participated
+U000217,"Low Value",Churned,1,0,1,1,0,1,0,1,Participated
+U001375,"Low Value",Active,1,14,15,9,1,9,1,1,"Grand Prize"
+U002210,"Medium Value",Active,1,14,15,9,1,9,0,1,Completed
+U001528,"Low Value",Active,1,10,11,9,1,9,1,1,"Grand Prize"
+U002616,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U001632,Non-Payer,At-Risk,1,0,1,1,0,1,0,1,Participated
+U000385,Non-Payer,At-Risk,1,0,1,1,0,1,0,1,Participated
+U000508,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U000924,"Low Value",At-Risk,1,9,10,9,1,9,1,1,"Grand Prize"
+U001806,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U002443,"Low Value",Dormant,1,0,1,1,0,1,0,1,Participated
+U001858,Non-Payer,Active,1,2,3,2,0,2,0,1,Participated
+U000652,Non-Payer,At-Risk,1,0,1,1,0,1,0,1,Participated
+U000700,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U000335,"Medium Value",At-Risk,1,12,13,9,1,9,1,1,"Grand Prize"
+U002856,Non-Payer,At-Risk,1,0,1,1,0,1,0,1,Participated
+U001420,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U000399,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U002736,Non-Payer,Active,1,7,8,7,0,7,0,1,Participated
+U000547,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U002598,Non-Payer,At-Risk,1,0,1,1,0,1,0,1,Participated
+U002728,"High Value",Active,1,10,11,9,1,9,0,1,Completed
+U001207,Non-Payer,At-Risk,1,4,5,1,0,1,0,1,Participated
+U002602,"Low Value",Active,1,10,11,9,1,9,0,1,Completed
+U000100,"Low Value",Active,1,13,14,9,1,9,0,1,Completed
+U001168,"Low Value",Churned,1,9,10,9,1,9,0,1,Completed
+U000707,"High Value",Active,1,11,12,9,1,9,0,1,Completed
+U000544,Non-Payer,At-Risk,1,0,1,1,0,1,0,1,Participated
+U000070,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U000216,Non-Payer,At-Risk,1,1,2,1,0,1,0,1,Participated
+U001132,Non-Payer,Dormant,1,2,3,1,0,1,0,1,Participated
+U001994,Non-Payer,At-Risk,1,0,1,1,0,1,0,1,Participated
+U002990,Non-Payer,Dormant,1,0,1,1,0,1,0,1,Participated
+U002374,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U002862,Non-Payer,Dormant,1,0,1,1,0,1,0,1,Participated
+U001803,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U001425,"Low Value",Dormant,1,5,6,2,0,2,0,1,Participated
+U000758,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U002136,"Low Value",Dormant,1,13,14,9,1,9,0,1,Completed
+U002003,"Low Value",Dormant,1,10,11,9,1,9,1,1,"Grand Prize"
+U001949,"Medium Value",Active,1,12,13,9,1,9,0,1,Completed
+U001835,"Low Value",Churned,1,0,1,1,0,1,0,1,Participated
+U000611,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U002389,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U001123,"Medium Value",Active,1,11,12,9,1,9,0,1,Completed
+U000582,"Low Value",Dormant,1,0,1,1,0,1,0,1,Participated
+U001035,"Low Value",Churned,1,0,1,1,0,1,0,1,Participated
+U002126,"High Value",At-Risk,1,11,12,9,1,9,1,1,"Grand Prize"
+U002536,Non-Payer,At-Risk,1,0,1,1,0,1,0,1,Participated
+U000382,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U002725,Non-Payer,Dormant,1,0,1,1,0,1,0,1,Participated
+U000247,"High Value",Churned,1,11,12,9,1,9,1,1,"Grand Prize"
+U000117,Non-Payer,Active,1,1,2,1,0,1,0,1,Participated
+U000130,"Medium Value",Dormant,1,13,14,9,1,9,0,1,Completed
+U000558,"Low Value",Active,1,8,9,9,1,9,0,1,Completed
+U001781,"Low Value",At-Risk,1,12,13,9,1,9,0,1,Completed
+U000432,"Low Value",Active,1,0,1,1,0,1,0,1,Participated
+U001195,Non-Payer,At-Risk,1,0,1,1,0,1,0,1,Participated
+U001265,"Medium Value",Dormant,1,9,10,9,1,9,0,1,Completed
+U002008,"Low Value",Active,1,2,3,1,0,1,0,1,Participated
+U002544,Whale,At-Risk,1,8,9,9,1,9,1,1,"Grand Prize"
+U001106,"Low Value",Active,1,12,13,9,1,9,1,1,"Grand Prize"
+U001682,"Low Value",At-Risk,1,0,1,1,0,1,0,1,Participated
+U001739,"Low Value",Active,1,9,10,9,1,9,1,1,"Grand Prize"
+U002062,"Medium Value",Dormant,1,1,2,1,0,1,0,1,Participated
+U001000,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U001502,"High Value",Active,1,8,9,9,1,9,0,1,Completed
+U000942,Non-Payer,At-Risk,1,0,1,1,0,1,0,1,Participated
+U001857,Non-Payer,Dormant,1,0,1,1,0,1,0,1,Participated
+U001479,"Low Value",Active,1,0,1,1,0,1,0,1,Participated
+U001224,"Low Value",Active,1,0,1,1,0,1,0,1,Participated
+U002786,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U000067,Non-Payer,At-Risk,1,1,2,2,0,2,0,1,Participated
+U001736,"Low Value",At-Risk,1,11,12,9,1,9,1,1,"Grand Prize"
+U000013,"Low Value",Churned,1,0,1,1,0,1,0,1,Participated
+U001786,"Low Value",Active,1,9,10,9,1,9,1,1,"Grand Prize"
+U001331,Non-Payer,Dormant,1,0,1,1,0,1,0,1,Participated
+U000880,"Medium Value",Active,1,8,9,9,1,9,0,1,Completed
+U001061,"Low Value",Active,1,0,1,1,0,1,0,1,Participated
+U002613,Non-Payer,At-Risk,1,8,9,9,1,9,0,1,Completed
+U001594,Non-Payer,Active,1,10,11,9,1,9,1,1,"Grand Prize"
+U002508,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U000240,"Low Value",Active,1,4,5,3,0,3,0,1,Participated
+U001228,"Low Value",Churned,1,14,15,9,1,9,0,1,Completed
+U000135,"Low Value",Active,1,4,5,3,0,3,0,1,Participated
+U000555,"Medium Value",Active,1,12,13,9,1,9,1,1,"Grand Prize"
+U000503,"Medium Value",Active,1,14,15,9,1,9,1,1,"Grand Prize"
+U002827,"Low Value",Active,1,12,13,9,1,9,1,1,"Grand Prize"
+U002316,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U001002,"Medium Value",At-Risk,1,8,9,9,1,9,1,1,"Grand Prize"
+U000538,"Medium Value",Active,1,8,9,9,1,9,1,1,"Grand Prize"
+U002163,"Low Value",Active,1,1,2,1,0,1,0,1,Participated
+U001199,"Low Value",Active,1,8,9,9,1,9,1,1,"Grand Prize"
+U002816,"Medium Value",Active,1,10,11,9,1,9,1,1,"Grand Prize"
+U002840,Non-Payer,Dormant,1,2,3,2,0,2,0,1,Participated
+U002213,Non-Payer,Active,1,8,9,9,1,9,0,1,Completed
+U002445,"Medium Value",At-Risk,1,14,15,9,1,9,1,1,"Grand Prize"
+U002896,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U001117,Non-Payer,Dormant,1,0,1,1,0,1,0,1,Participated
+U002878,"Medium Value",Active,1,13,14,9,1,9,1,1,"Grand Prize"
+U001157,Non-Payer,At-Risk,1,0,1,1,0,1,0,1,Participated
+U000543,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U000333,"Low Value",Active,1,0,1,1,0,1,0,1,Participated
+U001691,"Medium Value",At-Risk,1,10,11,9,1,9,1,1,"Grand Prize"
+U000440,"Medium Value",At-Risk,1,9,10,9,1,9,0,1,Completed
+U000303,Non-Payer,At-Risk,1,0,1,1,0,1,0,1,Participated
+U002435,"Low Value",Active,1,12,13,9,1,9,0,1,Completed
+U001743,Non-Payer,At-Risk,1,0,1,1,0,1,0,1,Participated
+U000207,Non-Payer,Churned,1,3,4,1,0,1,0,1,Participated
+U000129,Non-Payer,Active,1,9,10,9,1,9,0,1,Completed
+U002048,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U002096,Non-Payer,Dormant,1,0,1,1,0,1,0,1,Participated
+U002391,"Medium Value",Dormant,1,14,15,9,1,9,0,1,Completed
+U000051,"Low Value",At-Risk,1,4,5,2,0,2,0,1,Participated
+U000893,"Low Value",Dormant,1,0,1,1,0,1,0,1,Participated
+U000759,Non-Payer,At-Risk,1,0,1,1,0,1,0,1,Participated
+U001462,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U002282,"Low Value",At-Risk,1,13,14,9,1,9,1,1,"Grand Prize"
+U001251,"Low Value",Dormant,1,0,1,1,0,1,0,1,Participated
+U001148,"Low Value",Active,1,13,14,9,1,9,0,1,Completed
+U000750,"Low Value",Active,1,8,9,9,1,9,0,1,Completed
+U002357,Whale,Active,1,10,11,9,1,9,1,1,"Grand Prize"
+U000643,Non-Payer,Churned,1,5,6,3,0,3,0,1,Participated
+U000424,"Low Value",Churned,1,13,14,9,1,9,1,1,"Grand Prize"
+U002583,"Medium Value",Active,1,10,11,9,1,9,1,1,"Grand Prize"
+U001718,"Medium Value",Active,1,11,12,9,1,9,1,1,"Grand Prize"
+U002932,"Low Value",Churned,1,0,1,1,0,1,0,1,Participated
+U002160,"Low Value",Active,1,14,15,9,1,9,0,1,Completed
+U000475,"Low Value",Active,1,0,1,1,0,1,0,1,Participated
+U001190,"Medium Value",Active,1,13,14,9,1,9,1,1,"Grand Prize"
+U000874,Non-Payer,Dormant,1,0,1,1,0,1,0,1,Participated
+U000501,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U002548,"Medium Value",Churned,1,8,9,9,1,9,0,1,Completed
+U002899,Non-Payer,Active,1,5,6,2,0,2,0,1,Participated
+U000096,"Medium Value",At-Risk,1,0,1,1,0,1,0,1,Participated
+U000629,Non-Payer,Churned,1,0,1,1,0,1,0,1,Participated
+U000921,"High Value",Active,1,12,13,9,1,9,0,1,Completed
+U000539,"Low Value",Active,1,11,12,9,1,9,0,1,Completed
+U000143,"Low Value",Active,1,10,11,9,1,9,1,1,"Grand Prize"
+U002405,"High Value",Active,1,10,11,9,1,9,0,1,Completed
+U002046,"Medium Value",Dormant,1,9,10,9,1,9,1,1,"Grand Prize"
+U000125,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U001427,"Medium Value",Dormant,1,13,14,9,1,9,0,1,Completed
+U000373,"Low Value",Active,1,0,1,1,0,1,0,1,Participated
+U002555,"Medium Value",Active,1,11,12,9,1,9,1,1,"Grand Prize"
+U001433,Non-Payer,Dormant,1,0,1,1,0,1,0,1,Participated
+U000049,"Low Value",At-Risk,1,6,7,2,0,2,0,1,Participated
+U002790,"Medium Value",At-Risk,1,0,1,1,0,1,0,1,Participated
+U000627,Non-Payer,Churned,1,0,1,1,0,1,0,1,Participated
+U001754,"Medium Value",Active,1,0,1,1,0,1,0,1,Participated
+U001579,"Medium Value",Active,1,0,1,1,0,1,0,1,Participated
+U001028,Non-Payer,Churned,1,0,1,1,0,1,0,1,Participated
+U002298,Non-Payer,Churned,1,0,1,1,0,1,0,1,Participated
+U002549,"Medium Value",Dormant,1,14,15,9,1,9,0,1,Completed
+U002279,Non-Payer,Active,1,4,5,1,0,1,0,1,Participated
+U001717,Non-Payer,Active,1,5,6,3,0,3,0,1,Participated
+U001897,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U000615,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U002747,"Medium Value",At-Risk,1,12,13,9,1,9,0,1,Completed
+U002261,Non-Payer,Dormant,1,1,2,1,0,1,0,1,Participated
+U000310,"Medium Value",Active,1,10,11,9,1,9,1,1,"Grand Prize"
+U001016,"High Value",Active,1,14,15,9,1,9,0,1,Completed
+U002730,Non-Payer,At-Risk,1,0,1,1,0,1,0,1,Participated
+U001973,"Medium Value",Churned,1,0,1,1,0,1,0,1,Participated
+U000595,Non-Payer,Active,1,3,4,4,0,4,0,1,Participated
+U001627,"Low Value",Dormant,1,3,4,2,0,2,0,1,Participated
+U001977,"High Value",Active,1,9,10,9,1,9,1,1,"Grand Prize"
+U002071,"Medium Value",At-Risk,1,9,10,9,1,9,0,1,Completed
+U002565,"Low Value",At-Risk,1,0,1,1,0,1,0,1,Participated
+U002447,Non-Payer,At-Risk,1,0,1,1,0,1,0,1,Participated
+U001664,"High Value",Active,1,14,15,9,1,9,1,1,"Grand Prize"
+U001808,"Low Value",Active,1,0,1,1,0,1,0,1,Participated
+U002400,"Low Value",Dormant,1,9,10,9,1,9,0,1,Completed
+U000860,"Low Value",Active,1,0,1,1,0,1,0,1,Participated
+U001411,"Low Value",Churned,1,9,10,9,1,9,0,1,Completed
+U001968,"Low Value",Dormant,1,11,12,9,1,9,0,1,Completed
+U001809,"Medium Value",Active,1,7,8,4,0,4,0,1,Participated
+U000017,Non-Payer,Active,1,0,1,1,0,1,0,1,Participated
+U002353,"Low Value",Active,1,3,4,3,0,3,0,1,Participated
+U002036,Non-Payer,Active,1,1,2,1,0,1,0,1,Participated
+U001186,Non-Payer,Active,1,1,2,1,0,1,0,1,Participated
+U000311,"High Value",Active,1,8,9,9,1,9,1,1,"Grand Prize"

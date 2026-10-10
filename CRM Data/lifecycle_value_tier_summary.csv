@@ -1,0 +1,26 @@
+User Value Tier,Campaign Metric,Rate
+Whale,Puzzle Completion Rate,1.0
+Whale,Check-in Day 7 Visit Rate,0.958
+Whale,Fortune Recharge Conversion,0.6
+Whale,King's Return Reactivation Rate,1.0
+Whale,King's Return 30-Day Retention,0.917
+High Value,Puzzle Completion Rate,1.0
+High Value,Check-in Day 7 Visit Rate,0.734
+High Value,Fortune Recharge Conversion,0.493
+High Value,King's Return Reactivation Rate,0.913
+High Value,King's Return 30-Day Retention,0.738
+Medium Value,Puzzle Completion Rate,0.798
+Medium Value,Check-in Day 7 Visit Rate,0.488
+Medium Value,Fortune Recharge Conversion,0.461
+Medium Value,King's Return Reactivation Rate,0.874
+Medium Value,King's Return 30-Day Retention,0.314
+Low Value,Puzzle Completion Rate,0.441
+Low Value,Check-in Day 7 Visit Rate,0.256
+Low Value,Fortune Recharge Conversion,0.192
+Low Value,King's Return Reactivation Rate,0.714
+Low Value,King's Return 30-Day Retention,0.027
+Non-Payer,Puzzle Completion Rate,0.045
+Non-Payer,Check-in Day 7 Visit Rate,0.149
+Non-Payer,Fortune Recharge Conversion,0.007
+Non-Payer,King's Return Reactivation Rate,0.448
+Non-Payer,King's Return 30-Day Retention,0.0

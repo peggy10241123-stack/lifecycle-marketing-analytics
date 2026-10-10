@@ -1,0 +1,632 @@
+exposure_id,user_id,campaign_name,campaign_objective,channel,exposure_time,click_flag,click_time,visit_flag
+1,KR00001,King's Return,Reactivation,Banner,2024-09-10 15:01:00,1,2024-09-10 15:13:00,1
+2,KR00002,King's Return,Reactivation,Private Message Reminder,2024-09-02 23:49:00,1,2024-09-02 23:54:00,1
+3,KR00003,King's Return,Reactivation,Push,2024-09-10 12:09:00,1,2024-09-10 12:10:00,1
+4,KR00004,King's Return,Reactivation,Private Message Reminder,2024-09-03 12:50:00,1,2024-09-03 13:16:00,1
+5,KR00006,King's Return,Reactivation,Private Message Reminder,2024-09-14 13:46:00,1,2024-09-14 14:19:00,1
+6,KR00007,King's Return,Reactivation,Banner,2024-09-11 23:27:00,1,2024-09-11 23:52:00,1
+7,KR00008,King's Return,Reactivation,Banner,2024-09-13 18:07:00,0,,0
+8,KR00009,King's Return,Reactivation,Activity Center,2024-09-07 11:32:00,1,2024-09-07 12:12:00,1
+9,KR00010,King's Return,Reactivation,Activity Center,2024-09-07 14:13:00,0,,0
+10,KR00011,King's Return,Reactivation,Banner,2024-09-10 21:16:00,1,2024-09-10 21:34:00,1
+11,KR00012,King's Return,Reactivation,Banner,2024-09-03 15:25:00,1,2024-09-03 15:53:00,1
+12,KR00013,King's Return,Reactivation,Popup,2024-09-07 15:52:00,1,2024-09-07 16:33:00,0
+13,KR00014,King's Return,Reactivation,Activity Center,2024-09-13 15:27:00,0,,0
+14,KR00015,King's Return,Reactivation,Activity Center,2024-09-07 10:25:00,1,2024-09-07 10:54:00,1
+15,KR00016,King's Return,Reactivation,Popup,2024-09-04 20:52:00,0,,0
+16,KR00017,King's Return,Reactivation,Popup,2024-09-03 17:37:00,0,,0
+17,KR00018,King's Return,Reactivation,Private Message Reminder,2024-09-02 15:17:00,0,,0
+18,KR00019,King's Return,Reactivation,Push,2024-09-06 13:08:00,0,,0
+19,KR00020,King's Return,Reactivation,Banner,2024-09-06 10:49:00,1,2024-09-06 11:00:00,1
+20,KR00021,King's Return,Reactivation,Activity Center,2024-09-06 09:39:00,1,2024-09-06 10:17:00,0
+21,KR00022,King's Return,Reactivation,Activity Center,2024-09-13 22:33:00,0,,0
+22,KR00024,King's Return,Reactivation,Push,2024-09-08 19:48:00,0,,0
+23,KR00026,King's Return,Reactivation,Push,2024-09-02 23:27:00,1,2024-09-02 23:56:00,1
+24,KR00027,King's Return,Reactivation,Private Message Reminder,2024-09-11 09:55:00,0,,0
+25,KR00028,King's Return,Reactivation,Push,2024-09-01 19:15:00,1,2024-09-01 19:29:00,1
+26,KR00029,King's Return,Reactivation,Popup,2024-09-14 19:17:00,1,2024-09-14 19:35:00,1
+27,KR00030,King's Return,Reactivation,Private Message Reminder,2024-09-01 16:56:00,0,,0
+28,KR00031,King's Return,Reactivation,Activity Center,2024-09-06 16:19:00,0,,0
+29,KR00032,King's Return,Reactivation,Push,2024-09-02 20:46:00,1,2024-09-02 21:11:00,1
+30,KR00033,King's Return,Reactivation,Banner,2024-09-10 14:30:00,0,,0
+31,KR00034,King's Return,Reactivation,Push,2024-09-10 22:50:00,0,,0
+32,KR00036,King's Return,Reactivation,Banner,2024-09-04 21:00:00,1,2024-09-04 21:25:00,1
+33,KR00037,King's Return,Reactivation,Push,2024-09-13 19:29:00,0,,0
+34,KR00038,King's Return,Reactivation,Popup,2024-09-03 15:16:00,1,2024-09-03 15:45:00,1
+35,KR00039,King's Return,Reactivation,Push,2024-09-04 11:56:00,0,,0
+36,KR00040,King's Return,Reactivation,Activity Center,2024-09-14 19:46:00,1,2024-09-14 19:52:00,1
+37,KR00041,King's Return,Reactivation,Banner,2024-09-12 10:14:00,1,2024-09-12 10:31:00,1
+38,KR00042,King's Return,Reactivation,Private Message Reminder,2024-09-10 08:00:00,1,2024-09-10 08:44:00,1
+39,KR00043,King's Return,Reactivation,Private Message Reminder,2024-09-01 23:07:00,0,,0
+40,KR00044,King's Return,Reactivation,Popup,2024-09-04 13:43:00,0,,0
+41,KR00046,King's Return,Reactivation,Activity Center,2024-09-07 22:38:00,1,2024-09-07 23:14:00,0
+42,KR00048,King's Return,Reactivation,Activity Center,2024-09-12 20:15:00,0,,0
+43,KR00049,King's Return,Reactivation,Push,2024-09-04 17:41:00,0,,0
+44,KR00050,King's Return,Reactivation,Push,2024-09-05 14:18:00,1,2024-09-05 14:52:00,0
+45,KR00051,King's Return,Reactivation,Private Message Reminder,2024-09-08 10:54:00,1,2024-09-08 11:19:00,1
+46,KR00052,King's Return,Reactivation,Activity Center,2024-09-03 09:52:00,1,2024-09-03 10:09:00,1
+47,KR00053,King's Return,Reactivation,Popup,2024-09-10 11:41:00,1,2024-09-10 12:17:00,1
+48,KR00054,King's Return,Reactivation,Popup,2024-09-14 12:37:00,1,2024-09-14 13:14:00,0
+49,KR00055,King's Return,Reactivation,Banner,2024-09-02 23:01:00,1,2024-09-02 23:35:00,1
+50,KR00057,King's Return,Reactivation,Popup,2024-09-01 23:40:00,0,,0
+51,KR00058,King's Return,Reactivation,Banner,2024-09-14 23:35:00,1,2024-09-14 23:58:00,0
+52,KR00059,King's Return,Reactivation,Push,2024-09-12 20:11:00,1,2024-09-12 20:53:00,0
+53,KR00060,King's Return,Reactivation,Activity Center,2024-09-14 18:54:00,1,2024-09-14 19:17:00,1
+54,KR00061,King's Return,Reactivation,Popup,2024-09-01 19:19:00,0,,0
+55,KR00062,King's Return,Reactivation,Activity Center,2024-09-04 10:25:00,1,2024-09-04 10:27:00,1
+56,KR00063,King's Return,Reactivation,Activity Center,2024-09-11 09:48:00,1,2024-09-11 10:16:00,1
+57,KR00065,King's Return,Reactivation,Popup,2024-09-13 17:37:00,0,,0
+58,KR00066,King's Return,Reactivation,Popup,2024-09-03 16:11:00,1,2024-09-03 16:38:00,1
+59,KR00067,King's Return,Reactivation,Activity Center,2024-09-13 20:32:00,0,,0
+60,KR00068,King's Return,Reactivation,Private Message Reminder,2024-09-03 09:50:00,1,2024-09-03 10:28:00,1
+61,KR00070,King's Return,Reactivation,Private Message Reminder,2024-09-10 09:05:00,1,2024-09-10 09:40:00,0
+62,KR00071,King's Return,Reactivation,Banner,2024-09-07 13:42:00,1,2024-09-07 13:46:00,0
+63,KR00072,King's Return,Reactivation,Activity Center,2024-09-09 20:46:00,0,,0
+64,KR00074,King's Return,Reactivation,Banner,2024-09-01 10:38:00,0,,0
+65,KR00075,King's Return,Reactivation,Private Message Reminder,2024-09-14 09:22:00,1,2024-09-14 09:54:00,1
+66,KR00076,King's Return,Reactivation,Banner,2024-09-11 11:49:00,1,2024-09-11 11:51:00,1
+67,KR00077,King's Return,Reactivation,Private Message Reminder,2024-09-04 12:08:00,1,2024-09-04 12:18:00,1
+68,KR00078,King's Return,Reactivation,Activity Center,2024-09-10 13:08:00,1,2024-09-10 13:41:00,1
+69,KR00079,King's Return,Reactivation,Popup,2024-09-02 18:54:00,0,,0
+70,KR00080,King's Return,Reactivation,Banner,2024-09-01 13:42:00,1,2024-09-01 13:46:00,1
+71,KR00081,King's Return,Reactivation,Private Message Reminder,2024-09-09 20:36:00,1,2024-09-09 20:57:00,1
+72,KR00082,King's Return,Reactivation,Banner,2024-09-10 08:39:00,1,2024-09-10 09:07:00,1
+73,KR00083,King's Return,Reactivation,Activity Center,2024-09-13 09:10:00,1,2024-09-13 09:52:00,1
+74,KR00084,King's Return,Reactivation,Banner,2024-09-01 12:28:00,1,2024-09-01 13:00:00,1
+75,KR00085,King's Return,Reactivation,Activity Center,2024-09-10 13:06:00,1,2024-09-10 13:25:00,0
+76,KR00086,King's Return,Reactivation,Activity Center,2024-09-11 17:01:00,1,2024-09-11 17:27:00,1
+77,KR00087,King's Return,Reactivation,Push,2024-09-08 23:54:00,1,2024-09-09 00:09:00,0
+78,KR00088,King's Return,Reactivation,Activity Center,2024-09-06 12:07:00,1,2024-09-06 12:42:00,1
+79,KR00089,King's Return,Reactivation,Banner,2024-09-02 10:57:00,1,2024-09-02 11:29:00,1
+80,KR00090,King's Return,Reactivation,Popup,2024-09-12 17:53:00,1,2024-09-12 18:06:00,1
+81,KR00091,King's Return,Reactivation,Popup,2024-09-13 16:55:00,1,2024-09-13 17:24:00,1
+82,KR00092,King's Return,Reactivation,Private Message Reminder,2024-09-01 12:23:00,0,,0
+83,KR00093,King's Return,Reactivation,Banner,2024-09-10 08:51:00,0,,0
+84,KR00094,King's Return,Reactivation,Activity Center,2024-09-02 15:30:00,1,2024-09-02 15:40:00,1
+85,KR00096,King's Return,Reactivation,Push,2024-09-14 19:52:00,1,2024-09-14 20:05:00,1
+86,KR00097,King's Return,Reactivation,Popup,2024-09-04 11:19:00,0,,0
+87,KR00098,King's Return,Reactivation,Activity Center,2024-09-12 10:09:00,0,,0
+88,KR00100,King's Return,Reactivation,Private Message Reminder,2024-09-04 09:50:00,1,2024-09-04 10:30:00,1
+89,KR00101,King's Return,Reactivation,Push,2024-09-10 22:09:00,0,,0
+90,KR00102,King's Return,Reactivation,Private Message Reminder,2024-09-11 16:20:00,1,2024-09-11 16:34:00,1
+91,KR00105,King's Return,Reactivation,Private Message Reminder,2024-09-02 17:43:00,0,,0
+92,KR00106,King's Return,Reactivation,Push,2024-09-10 16:12:00,1,2024-09-10 16:26:00,0
+93,KR00108,King's Return,Reactivation,Banner,2024-09-14 17:57:00,1,2024-09-14 18:00:00,1
+94,KR00110,King's Return,Reactivation,Activity Center,2024-09-12 08:37:00,1,2024-09-12 09:05:00,0
+95,KR00111,King's Return,Reactivation,Popup,2024-09-11 11:33:00,1,2024-09-11 12:13:00,0
+96,KR00112,King's Return,Reactivation,Banner,2024-09-13 14:32:00,0,,0
+97,KR00113,King's Return,Reactivation,Activity Center,2024-09-05 08:18:00,1,2024-09-05 08:55:00,1
+98,KR00115,King's Return,Reactivation,Private Message Reminder,2024-09-04 19:45:00,1,2024-09-04 20:10:00,1
+99,KR00116,King's Return,Reactivation,Push,2024-09-12 14:36:00,1,2024-09-12 15:03:00,1
+100,KR00118,King's Return,Reactivation,Private Message Reminder,2024-09-06 17:56:00,1,2024-09-06 18:37:00,1
+101,KR00119,King's Return,Reactivation,Popup,2024-09-11 17:06:00,1,2024-09-11 17:28:00,1
+102,KR00120,King's Return,Reactivation,Banner,2024-09-14 12:06:00,1,2024-09-14 12:12:00,1
+103,KR00121,King's Return,Reactivation,Banner,2024-09-14 20:46:00,1,2024-09-14 21:15:00,1
+104,KR00122,King's Return,Reactivation,Private Message Reminder,2024-09-08 22:28:00,0,,0
+105,KR00124,King's Return,Reactivation,Activity Center,2024-09-05 15:42:00,1,2024-09-05 16:00:00,1
+106,KR00125,King's Return,Reactivation,Activity Center,2024-09-11 12:48:00,1,2024-09-11 13:29:00,1
+107,KR00126,King's Return,Reactivation,Activity Center,2024-09-01 11:21:00,0,,0
+108,KR00127,King's Return,Reactivation,Banner,2024-09-11 10:28:00,1,2024-09-11 10:32:00,1
+109,KR00128,King's Return,Reactivation,Activity Center,2024-09-11 21:57:00,1,2024-09-11 22:29:00,0
+110,KR00129,King's Return,Reactivation,Banner,2024-09-04 20:39:00,1,2024-09-04 20:54:00,1
+111,KR00130,King's Return,Reactivation,Private Message Reminder,2024-09-09 08:44:00,1,2024-09-09 08:54:00,1
+112,KR00131,King's Return,Reactivation,Banner,2024-09-01 16:09:00,0,,0
+113,KR00132,King's Return,Reactivation,Popup,2024-09-05 18:42:00,1,2024-09-05 18:50:00,1
+114,KR00133,King's Return,Reactivation,Activity Center,2024-09-06 17:49:00,0,,0
+115,KR00134,King's Return,Reactivation,Activity Center,2024-09-14 12:05:00,1,2024-09-14 12:29:00,1
+116,KR00135,King's Return,Reactivation,Banner,2024-09-01 15:12:00,0,,0
+117,KR00136,King's Return,Reactivation,Private Message Reminder,2024-09-03 13:26:00,0,,0
+118,KR00137,King's Return,Reactivation,Private Message Reminder,2024-09-04 22:58:00,1,2024-09-04 23:20:00,1
+119,KR00139,King's Return,Reactivation,Private Message Reminder,2024-09-09 16:43:00,1,2024-09-09 16:54:00,1
+120,KR00140,King's Return,Reactivation,Popup,2024-09-10 15:18:00,0,,0
+121,KR00142,King's Return,Reactivation,Banner,2024-09-14 18:04:00,1,2024-09-14 18:34:00,1
+122,KR00143,King's Return,Reactivation,Push,2024-09-03 09:27:00,0,,0
+123,KR00144,King's Return,Reactivation,Banner,2024-09-03 16:35:00,1,2024-09-03 16:53:00,0
+124,KR00145,King's Return,Reactivation,Activity Center,2024-09-04 10:21:00,1,2024-09-04 10:27:00,1
+125,KR00146,King's Return,Reactivation,Popup,2024-09-06 14:00:00,1,2024-09-06 14:03:00,1
+126,KR00147,King's Return,Reactivation,Private Message Reminder,2024-09-11 10:14:00,0,,0
+127,KR00148,King's Return,Reactivation,Popup,2024-09-13 12:45:00,1,2024-09-13 13:14:00,1
+128,KR00150,King's Return,Reactivation,Push,2024-09-09 14:24:00,0,,0
+129,KR00151,King's Return,Reactivation,Popup,2024-09-03 21:42:00,1,2024-09-03 22:25:00,0
+130,KR00152,King's Return,Reactivation,Banner,2024-09-11 10:11:00,1,2024-09-11 10:20:00,1
+131,KR00153,King's Return,Reactivation,Popup,2024-09-07 11:52:00,0,,0
+132,KR00155,King's Return,Reactivation,Activity Center,2024-09-07 13:36:00,1,2024-09-07 13:50:00,0
+133,KR00156,King's Return,Reactivation,Push,2024-09-06 18:16:00,1,2024-09-06 18:43:00,1
+134,KR00157,King's Return,Reactivation,Private Message Reminder,2024-09-04 13:41:00,0,,0
+135,KR00158,King's Return,Reactivation,Push,2024-09-08 21:07:00,1,2024-09-08 21:49:00,1
+136,KR00159,King's Return,Reactivation,Push,2024-09-03 13:09:00,1,2024-09-03 13:17:00,0
+137,KR00160,King's Return,Reactivation,Banner,2024-09-05 20:06:00,1,2024-09-05 20:48:00,1
+138,KR00161,King's Return,Reactivation,Activity Center,2024-09-10 11:38:00,1,2024-09-10 11:45:00,1
+139,KR00162,King's Return,Reactivation,Push,2024-09-07 18:45:00,1,2024-09-07 19:00:00,1
+140,KR00163,King's Return,Reactivation,Banner,2024-09-10 12:19:00,0,,0
+141,KR00164,King's Return,Reactivation,Activity Center,2024-09-06 20:52:00,0,,0
+142,KR00165,King's Return,Reactivation,Banner,2024-09-11 11:48:00,0,,0
+143,KR00166,King's Return,Reactivation,Activity Center,2024-09-11 11:51:00,1,2024-09-11 11:54:00,0
+144,KR00167,King's Return,Reactivation,Private Message Reminder,2024-09-04 21:53:00,1,2024-09-04 22:07:00,1
+145,KR00168,King's Return,Reactivation,Banner,2024-09-01 08:14:00,1,2024-09-01 08:56:00,1
+146,KR00169,King's Return,Reactivation,Private Message Reminder,2024-09-03 15:22:00,1,2024-09-03 15:36:00,1
+147,KR00170,King's Return,Reactivation,Push,2024-09-12 16:42:00,1,2024-09-12 16:57:00,1
+148,KR00171,King's Return,Reactivation,Push,2024-09-02 08:23:00,1,2024-09-02 08:45:00,1
+149,KR00172,King's Return,Reactivation,Push,2024-09-01 22:34:00,1,2024-09-01 23:07:00,0
+150,KR00173,King's Return,Reactivation,Activity Center,2024-09-02 21:40:00,0,,0
+151,KR00174,King's Return,Reactivation,Activity Center,2024-09-04 18:47:00,0,,0
+152,KR00175,King's Return,Reactivation,Popup,2024-09-07 16:28:00,0,,0
+153,KR00176,King's Return,Reactivation,Popup,2024-09-04 21:56:00,0,,0
+154,KR00177,King's Return,Reactivation,Activity Center,2024-09-07 17:12:00,1,2024-09-07 17:57:00,1
+155,KR00178,King's Return,Reactivation,Push,2024-09-10 20:16:00,0,,0
+156,KR00179,King's Return,Reactivation,Activity Center,2024-09-14 23:13:00,1,2024-09-14 23:38:00,1
+157,KR00182,King's Return,Reactivation,Private Message Reminder,2024-09-01 09:05:00,1,2024-09-01 09:35:00,1
+158,KR00183,King's Return,Reactivation,Popup,2024-09-09 18:41:00,1,2024-09-09 19:19:00,1
+159,KR00185,King's Return,Reactivation,Popup,2024-09-05 10:26:00,0,,0
+160,KR00188,King's Return,Reactivation,Push,2024-09-09 13:34:00,0,,0
+161,KR00189,King's Return,Reactivation,Popup,2024-09-04 18:02:00,0,,0
+162,KR00190,King's Return,Reactivation,Private Message Reminder,2024-09-14 11:33:00,0,,0
+163,KR00191,King's Return,Reactivation,Private Message Reminder,2024-09-04 16:16:00,1,2024-09-04 16:45:00,1
+164,KR00192,King's Return,Reactivation,Private Message Reminder,2024-09-14 19:40:00,1,2024-09-14 20:11:00,1
+165,KR00194,King's Return,Reactivation,Popup,2024-09-03 17:10:00,1,2024-09-03 17:37:00,1
+166,KR00196,King's Return,Reactivation,Push,2024-09-04 19:59:00,1,2024-09-04 20:18:00,1
+167,KR00197,King's Return,Reactivation,Private Message Reminder,2024-09-09 17:46:00,1,2024-09-09 17:49:00,1
+168,KR00198,King's Return,Reactivation,Banner,2024-09-01 21:28:00,1,2024-09-01 21:30:00,1
+169,KR00199,King's Return,Reactivation,Push,2024-09-02 15:52:00,0,,0
+170,KR00200,King's Return,Reactivation,Popup,2024-09-12 12:22:00,0,,0
+171,KR00201,King's Return,Reactivation,Popup,2024-09-12 21:54:00,0,,0
+172,KR00202,King's Return,Reactivation,Banner,2024-09-11 23:11:00,0,,0
+173,KR00203,King's Return,Reactivation,Activity Center,2024-09-09 19:15:00,1,2024-09-09 19:24:00,1
+174,KR00204,King's Return,Reactivation,Private Message Reminder,2024-09-05 20:03:00,1,2024-09-05 20:34:00,1
+175,KR00205,King's Return,Reactivation,Banner,2024-09-10 08:14:00,0,,0
+176,KR00206,King's Return,Reactivation,Popup,2024-09-10 22:26:00,0,,0
+177,KR00207,King's Return,Reactivation,Push,2024-09-04 22:54:00,0,,0
+178,KR00208,King's Return,Reactivation,Push,2024-09-11 14:15:00,0,,0
+179,KR00209,King's Return,Reactivation,Private Message Reminder,2024-09-11 16:33:00,1,2024-09-11 16:54:00,0
+180,KR00211,King's Return,Reactivation,Private Message Reminder,2024-09-03 18:55:00,0,,0
+181,KR00212,King's Return,Reactivation,Activity Center,2024-09-11 20:54:00,1,2024-09-11 21:06:00,1
+182,KR00213,King's Return,Reactivation,Private Message Reminder,2024-09-13 20:46:00,0,,0
+183,KR00214,King's Return,Reactivation,Popup,2024-09-03 10:42:00,1,2024-09-03 10:43:00,1
+184,KR00215,King's Return,Reactivation,Activity Center,2024-09-04 14:46:00,1,2024-09-04 15:09:00,0
+185,KR00216,King's Return,Reactivation,Popup,2024-09-04 11:53:00,1,2024-09-04 11:59:00,1
+186,KR00217,King's Return,Reactivation,Push,2024-09-04 23:59:00,0,,0
+187,KR00218,King's Return,Reactivation,Banner,2024-09-11 08:34:00,1,2024-09-11 08:53:00,1
+188,KR00219,King's Return,Reactivation,Private Message Reminder,2024-09-03 15:54:00,0,,0
+189,KR00220,King's Return,Reactivation,Activity Center,2024-09-10 17:22:00,1,2024-09-10 17:38:00,1
+190,KR00221,King's Return,Reactivation,Popup,2024-09-12 13:05:00,0,,0
+191,KR00222,King's Return,Reactivation,Push,2024-09-11 08:02:00,1,2024-09-11 08:46:00,1
+192,KR00223,King's Return,Reactivation,Activity Center,2024-09-04 10:27:00,1,2024-09-04 11:10:00,1
+193,KR00224,King's Return,Reactivation,Activity Center,2024-09-06 23:58:00,1,2024-09-07 00:02:00,1
+194,KR00225,King's Return,Reactivation,Popup,2024-09-09 16:33:00,1,2024-09-09 17:01:00,0
+195,KR00226,King's Return,Reactivation,Push,2024-09-06 08:41:00,0,,0
+196,KR00227,King's Return,Reactivation,Push,2024-09-09 21:59:00,0,,0
+197,KR00228,King's Return,Reactivation,Popup,2024-09-14 20:05:00,1,2024-09-14 20:41:00,0
+198,KR00230,King's Return,Reactivation,Popup,2024-09-10 22:08:00,1,2024-09-10 22:23:00,1
+199,KR00231,King's Return,Reactivation,Popup,2024-09-13 16:04:00,0,,0
+200,KR00234,King's Return,Reactivation,Private Message Reminder,2024-09-11 15:15:00,1,2024-09-11 15:55:00,1
+201,KR00236,King's Return,Reactivation,Private Message Reminder,2024-09-03 14:22:00,1,2024-09-03 14:51:00,1
+202,KR00237,King's Return,Reactivation,Popup,2024-09-04 20:42:00,1,2024-09-04 21:16:00,1
+203,KR00238,King's Return,Reactivation,Banner,2024-09-06 15:27:00,0,,0
+204,KR00239,King's Return,Reactivation,Banner,2024-09-02 09:47:00,1,2024-09-02 10:15:00,1
+205,KR00240,King's Return,Reactivation,Popup,2024-09-11 19:34:00,1,2024-09-11 19:37:00,1
+206,KR00241,King's Return,Reactivation,Private Message Reminder,2024-09-03 15:46:00,0,,0
+207,KR00242,King's Return,Reactivation,Push,2024-09-13 12:10:00,1,2024-09-13 12:41:00,0
+208,KR00243,King's Return,Reactivation,Activity Center,2024-09-08 22:25:00,1,2024-09-08 23:06:00,1
+209,KR00244,King's Return,Reactivation,Banner,2024-09-06 20:18:00,0,,0
+210,KR00245,King's Return,Reactivation,Banner,2024-09-12 12:53:00,1,2024-09-12 13:32:00,1
+211,KR00246,King's Return,Reactivation,Popup,2024-09-08 11:01:00,0,,0
+212,KR00247,King's Return,Reactivation,Push,2024-09-11 15:46:00,1,2024-09-11 16:16:00,1
+213,KR00248,King's Return,Reactivation,Private Message Reminder,2024-09-03 13:03:00,0,,0
+214,KR00249,King's Return,Reactivation,Push,2024-09-09 09:26:00,0,,0
+215,KR00250,King's Return,Reactivation,Popup,2024-09-11 13:22:00,1,2024-09-11 14:01:00,1
+216,KR00251,King's Return,Reactivation,Activity Center,2024-09-14 13:47:00,0,,0
+217,KR00252,King's Return,Reactivation,Activity Center,2024-09-03 22:14:00,0,,0
+218,KR00253,King's Return,Reactivation,Push,2024-09-04 11:20:00,1,2024-09-04 11:28:00,1
+219,KR00254,King's Return,Reactivation,Activity Center,2024-09-08 10:20:00,0,,0
+220,KR00255,King's Return,Reactivation,Private Message Reminder,2024-09-10 14:03:00,1,2024-09-10 14:44:00,0
+221,KR00256,King's Return,Reactivation,Activity Center,2024-09-05 21:35:00,1,2024-09-05 21:52:00,1
+222,KR00257,King's Return,Reactivation,Push,2024-09-04 19:35:00,1,2024-09-04 19:46:00,1
+223,KR00258,King's Return,Reactivation,Private Message Reminder,2024-09-07 14:01:00,1,2024-09-07 14:45:00,1
+224,KR00259,King's Return,Reactivation,Popup,2024-09-14 19:00:00,1,2024-09-14 19:11:00,1
+225,KR00260,King's Return,Reactivation,Activity Center,2024-09-13 18:11:00,1,2024-09-13 18:17:00,1
+226,KR00261,King's Return,Reactivation,Private Message Reminder,2024-09-02 19:34:00,1,2024-09-02 19:41:00,1
+227,KR00262,King's Return,Reactivation,Banner,2024-09-09 23:48:00,0,,0
+228,KR00263,King's Return,Reactivation,Banner,2024-09-03 08:55:00,1,2024-09-03 09:28:00,0
+229,KR00264,King's Return,Reactivation,Push,2024-09-08 12:39:00,1,2024-09-08 13:20:00,1
+230,KR00265,King's Return,Reactivation,Activity Center,2024-09-04 10:31:00,0,,0
+231,KR00266,King's Return,Reactivation,Activity Center,2024-09-02 14:16:00,1,2024-09-02 14:34:00,1
+232,KR00267,King's Return,Reactivation,Activity Center,2024-09-05 23:05:00,1,2024-09-05 23:18:00,0
+233,KR00268,King's Return,Reactivation,Popup,2024-09-11 15:22:00,1,2024-09-11 15:29:00,1
+234,KR00269,King's Return,Reactivation,Activity Center,2024-09-08 11:49:00,1,2024-09-08 12:02:00,1
+235,KR00271,King's Return,Reactivation,Banner,2024-09-02 16:52:00,1,2024-09-02 17:19:00,1
+236,KR00272,King's Return,Reactivation,Activity Center,2024-09-02 20:54:00,1,2024-09-02 21:06:00,1
+237,KR00274,King's Return,Reactivation,Popup,2024-09-07 19:26:00,0,,0
+238,KR00275,King's Return,Reactivation,Activity Center,2024-09-10 22:51:00,0,,0
+239,KR00276,King's Return,Reactivation,Banner,2024-09-02 19:33:00,1,2024-09-02 19:38:00,1
+240,KR00277,King's Return,Reactivation,Popup,2024-09-04 15:37:00,1,2024-09-04 15:54:00,1
+241,KR00278,King's Return,Reactivation,Push,2024-09-11 20:36:00,0,,0
+242,KR00279,King's Return,Reactivation,Private Message Reminder,2024-09-04 10:53:00,1,2024-09-04 11:22:00,1
+243,KR00280,King's Return,Reactivation,Activity Center,2024-09-11 20:46:00,0,,0
+244,KR00281,King's Return,Reactivation,Activity Center,2024-09-12 11:05:00,1,2024-09-12 11:21:00,1
+245,KR00282,King's Return,Reactivation,Private Message Reminder,2024-09-02 23:59:00,1,2024-09-03 00:24:00,0
+246,KR00283,King's Return,Reactivation,Banner,2024-09-12 22:47:00,1,2024-09-12 22:53:00,1
+247,KR00284,King's Return,Reactivation,Push,2024-09-03 18:08:00,1,2024-09-03 18:27:00,1
+248,KR00285,King's Return,Reactivation,Popup,2024-09-02 08:47:00,1,2024-09-02 08:50:00,1
+249,KR00286,King's Return,Reactivation,Activity Center,2024-09-01 15:14:00,1,2024-09-01 15:31:00,1
+250,KR00287,King's Return,Reactivation,Push,2024-09-06 17:00:00,1,2024-09-06 17:41:00,1
+251,KR00288,King's Return,Reactivation,Activity Center,2024-09-11 11:28:00,1,2024-09-11 11:30:00,1
+252,KR00289,King's Return,Reactivation,Push,2024-09-10 20:39:00,1,2024-09-10 21:23:00,1
+253,KR00291,King's Return,Reactivation,Push,2024-09-13 17:17:00,1,2024-09-13 17:56:00,1
+254,KR00292,King's Return,Reactivation,Popup,2024-09-05 08:53:00,1,2024-09-05 09:26:00,1
+255,KR00293,King's Return,Reactivation,Activity Center,2024-09-05 13:39:00,1,2024-09-05 14:00:00,1
+256,KR00294,King's Return,Reactivation,Banner,2024-09-11 08:00:00,1,2024-09-11 08:19:00,1
+257,KR00295,King's Return,Reactivation,Banner,2024-09-03 09:53:00,1,2024-09-03 10:38:00,1
+258,KR00296,King's Return,Reactivation,Activity Center,2024-09-10 12:41:00,0,,0
+259,KR00297,King's Return,Reactivation,Popup,2024-09-05 08:08:00,1,2024-09-05 08:18:00,1
+260,KR00298,King's Return,Reactivation,Push,2024-09-13 16:18:00,1,2024-09-13 16:51:00,1
+261,KR00299,King's Return,Reactivation,Activity Center,2024-09-11 18:57:00,1,2024-09-11 19:26:00,1
+262,KR00300,King's Return,Reactivation,Private Message Reminder,2024-09-04 19:54:00,1,2024-09-04 20:05:00,1
+263,KR00301,King's Return,Reactivation,Popup,2024-09-01 11:27:00,1,2024-09-01 11:39:00,1
+264,KR00302,King's Return,Reactivation,Popup,2024-09-07 21:43:00,1,2024-09-07 21:59:00,1
+265,KR00303,King's Return,Reactivation,Banner,2024-09-01 20:28:00,0,,0
+266,KR00304,King's Return,Reactivation,Private Message Reminder,2024-09-07 14:44:00,0,,0
+267,KR00305,King's Return,Reactivation,Push,2024-09-03 18:09:00,0,,0
+268,KR00306,King's Return,Reactivation,Push,2024-09-08 16:59:00,1,2024-09-08 17:22:00,1
+269,KR00307,King's Return,Reactivation,Banner,2024-09-03 09:29:00,1,2024-09-03 09:48:00,1
+270,KR00308,King's Return,Reactivation,Banner,2024-09-07 11:20:00,1,2024-09-07 11:55:00,1
+271,KR00309,King's Return,Reactivation,Push,2024-09-04 11:35:00,1,2024-09-04 12:18:00,1
+272,KR00311,King's Return,Reactivation,Banner,2024-09-03 21:49:00,0,,0
+273,KR00313,King's Return,Reactivation,Activity Center,2024-09-04 13:22:00,1,2024-09-04 13:36:00,0
+274,KR00314,King's Return,Reactivation,Popup,2024-09-02 10:51:00,1,2024-09-02 11:26:00,1
+275,KR00315,King's Return,Reactivation,Activity Center,2024-09-13 13:34:00,1,2024-09-13 13:35:00,1
+276,KR00316,King's Return,Reactivation,Banner,2024-09-02 09:21:00,1,2024-09-02 09:33:00,1
+277,KR00317,King's Return,Reactivation,Private Message Reminder,2024-09-01 10:17:00,1,2024-09-01 11:02:00,1
+278,KR00319,King's Return,Reactivation,Popup,2024-09-10 08:26:00,1,2024-09-10 08:51:00,1
+279,KR00320,King's Return,Reactivation,Activity Center,2024-09-11 08:55:00,1,2024-09-11 09:36:00,1
+280,KR00321,King's Return,Reactivation,Activity Center,2024-09-14 20:28:00,1,2024-09-14 21:04:00,1
+281,KR00322,King's Return,Reactivation,Private Message Reminder,2024-09-11 15:11:00,1,2024-09-11 15:31:00,1
+282,KR00323,King's Return,Reactivation,Push,2024-09-13 21:35:00,1,2024-09-13 22:09:00,1
+283,KR00324,King's Return,Reactivation,Banner,2024-09-02 14:12:00,1,2024-09-02 14:21:00,1
+284,KR00325,King's Return,Reactivation,Push,2024-09-08 20:27:00,1,2024-09-08 21:09:00,1
+285,KR00326,King's Return,Reactivation,Push,2024-09-13 11:54:00,0,,0
+286,KR00327,King's Return,Reactivation,Push,2024-09-10 12:45:00,1,2024-09-10 13:26:00,1
+287,KR00328,King's Return,Reactivation,Private Message Reminder,2024-09-14 08:50:00,1,2024-09-14 09:21:00,1
+288,KR00329,King's Return,Reactivation,Activity Center,2024-09-06 11:36:00,1,2024-09-06 12:03:00,1
+289,KR00330,King's Return,Reactivation,Banner,2024-09-05 12:54:00,1,2024-09-05 13:01:00,1
+290,KR00331,King's Return,Reactivation,Push,2024-09-12 14:58:00,1,2024-09-12 15:42:00,1
+291,KR00332,King's Return,Reactivation,Push,2024-09-13 20:25:00,1,2024-09-13 20:28:00,1
+292,KR00333,King's Return,Reactivation,Popup,2024-09-08 08:17:00,1,2024-09-08 08:54:00,1
+293,KR00334,King's Return,Reactivation,Banner,2024-09-05 09:56:00,1,2024-09-05 10:14:00,1
+294,KR00335,King's Return,Reactivation,Activity Center,2024-09-06 21:03:00,1,2024-09-06 21:36:00,1
+295,KR00336,King's Return,Reactivation,Banner,2024-09-09 15:18:00,1,2024-09-09 15:54:00,1
+296,KR00337,King's Return,Reactivation,Push,2024-09-14 13:36:00,0,,0
+297,KR00338,King's Return,Reactivation,Banner,2024-09-07 12:07:00,1,2024-09-07 12:27:00,1
+298,KR00339,King's Return,Reactivation,Push,2024-09-10 17:20:00,1,2024-09-10 17:38:00,1
+299,KR00340,King's Return,Reactivation,Activity Center,2024-09-02 14:42:00,1,2024-09-02 15:05:00,1
+300,KR00341,King's Return,Reactivation,Popup,2024-09-04 10:30:00,1,2024-09-04 10:45:00,1
+301,KR00342,King's Return,Reactivation,Activity Center,2024-09-08 10:48:00,1,2024-09-08 10:53:00,1
+302,KR00343,King's Return,Reactivation,Private Message Reminder,2024-09-01 10:26:00,1,2024-09-01 10:39:00,1
+303,KR00344,King's Return,Reactivation,Activity Center,2024-09-05 08:36:00,1,2024-09-05 08:40:00,1
+304,KR00345,King's Return,Reactivation,Push,2024-09-02 16:43:00,1,2024-09-02 17:28:00,0
+305,KR00346,King's Return,Reactivation,Activity Center,2024-09-01 10:37:00,1,2024-09-01 11:19:00,1
+306,KR00348,King's Return,Reactivation,Push,2024-09-14 22:26:00,1,2024-09-14 22:38:00,1
+307,KR00349,King's Return,Reactivation,Banner,2024-09-13 20:31:00,0,,0
+308,KR00350,King's Return,Reactivation,Push,2024-09-12 21:50:00,1,2024-09-12 21:54:00,1
+309,KR00351,King's Return,Reactivation,Activity Center,2024-09-05 13:21:00,0,,0
+310,KR00352,King's Return,Reactivation,Activity Center,2024-09-03 17:00:00,1,2024-09-03 17:25:00,1
+311,KR00353,King's Return,Reactivation,Private Message Reminder,2024-09-04 22:04:00,1,2024-09-04 22:06:00,1
+312,KR00354,King's Return,Reactivation,Popup,2024-09-12 09:42:00,0,,0
+313,KR00355,King's Return,Reactivation,Banner,2024-09-13 13:49:00,1,2024-09-13 14:12:00,1
+314,KR00356,King's Return,Reactivation,Activity Center,2024-09-02 11:58:00,1,2024-09-02 12:38:00,1
+315,KR00357,King's Return,Reactivation,Banner,2024-09-08 10:48:00,1,2024-09-08 11:02:00,1
+316,KR00358,King's Return,Reactivation,Activity Center,2024-09-05 11:17:00,0,,0
+317,KR00359,King's Return,Reactivation,Activity Center,2024-09-11 09:59:00,0,,0
+318,KR00360,King's Return,Reactivation,Popup,2024-09-14 21:59:00,0,,0
+319,KR00361,King's Return,Reactivation,Banner,2024-09-10 11:05:00,1,2024-09-10 11:39:00,1
+320,KR00362,King's Return,Reactivation,Private Message Reminder,2024-09-11 23:22:00,1,2024-09-11 23:29:00,0
+321,KR00363,King's Return,Reactivation,Activity Center,2024-09-06 15:23:00,0,,0
+322,KR00364,King's Return,Reactivation,Push,2024-09-06 18:35:00,1,2024-09-06 18:43:00,1
+323,KR00365,King's Return,Reactivation,Popup,2024-09-05 18:23:00,1,2024-09-05 18:51:00,1
+324,KR00366,King's Return,Reactivation,Private Message Reminder,2024-09-09 08:17:00,1,2024-09-09 08:58:00,0
+325,KR00367,King's Return,Reactivation,Private Message Reminder,2024-09-02 20:37:00,1,2024-09-02 20:41:00,1
+326,KR00368,King's Return,Reactivation,Banner,2024-09-09 14:49:00,1,2024-09-09 14:59:00,1
+327,KR00369,King's Return,Reactivation,Banner,2024-09-04 17:13:00,0,,0
+328,KR00371,King's Return,Reactivation,Popup,2024-09-03 23:49:00,1,2024-09-03 23:50:00,1
+329,KR00372,King's Return,Reactivation,Banner,2024-09-04 19:19:00,0,,0
+330,KR00373,King's Return,Reactivation,Push,2024-09-04 17:48:00,1,2024-09-04 17:53:00,1
+331,KR00374,King's Return,Reactivation,Push,2024-09-01 15:33:00,1,2024-09-01 15:57:00,1
+332,KR00375,King's Return,Reactivation,Banner,2024-09-01 20:29:00,1,2024-09-01 20:43:00,1
+333,KR00376,King's Return,Reactivation,Activity Center,2024-09-13 11:47:00,1,2024-09-13 11:59:00,1
+334,KR00377,King's Return,Reactivation,Private Message Reminder,2024-09-02 23:14:00,1,2024-09-02 23:18:00,1
+335,KR00378,King's Return,Reactivation,Popup,2024-09-13 20:19:00,1,2024-09-13 20:30:00,1
+336,KR00379,King's Return,Reactivation,Banner,2024-09-09 08:25:00,1,2024-09-09 09:07:00,1
+337,KR00380,King's Return,Reactivation,Activity Center,2024-09-14 10:39:00,0,,0
+338,KR00381,King's Return,Reactivation,Activity Center,2024-09-07 19:42:00,1,2024-09-07 20:03:00,1
+339,KR00382,King's Return,Reactivation,Activity Center,2024-09-01 18:58:00,0,,0
+340,KR00383,King's Return,Reactivation,Activity Center,2024-09-02 18:47:00,1,2024-09-02 19:19:00,1
+341,KR00384,King's Return,Reactivation,Private Message Reminder,2024-09-13 19:26:00,1,2024-09-13 20:01:00,1
+342,KR00385,King's Return,Reactivation,Banner,2024-09-05 21:58:00,0,,0
+343,KR00386,King's Return,Reactivation,Private Message Reminder,2024-09-03 12:44:00,1,2024-09-03 13:25:00,1
+344,KR00387,King's Return,Reactivation,Banner,2024-09-12 20:48:00,1,2024-09-12 21:30:00,1
+345,KR00388,King's Return,Reactivation,Banner,2024-09-05 13:10:00,0,,0
+346,KR00389,King's Return,Reactivation,Popup,2024-09-04 19:40:00,0,,0
+347,KR00390,King's Return,Reactivation,Banner,2024-09-03 10:10:00,1,2024-09-03 10:18:00,0
+348,KR00391,King's Return,Reactivation,Activity Center,2024-09-13 21:36:00,1,2024-09-13 22:04:00,1
+349,KR00392,King's Return,Reactivation,Popup,2024-09-09 14:36:00,1,2024-09-09 15:08:00,1
+350,KR00393,King's Return,Reactivation,Push,2024-09-01 15:21:00,1,2024-09-01 15:27:00,1
+351,KR00394,King's Return,Reactivation,Push,2024-09-07 12:33:00,1,2024-09-07 13:15:00,1
+352,KR00395,King's Return,Reactivation,Private Message Reminder,2024-09-04 15:47:00,1,2024-09-04 16:26:00,1
+353,KR00396,King's Return,Reactivation,Banner,2024-09-10 13:46:00,0,,0
+354,KR00397,King's Return,Reactivation,Activity Center,2024-09-07 19:53:00,0,,0
+355,KR00399,King's Return,Reactivation,Private Message Reminder,2024-09-11 23:40:00,1,2024-09-12 00:18:00,1
+356,KR00400,King's Return,Reactivation,Banner,2024-09-06 23:37:00,1,2024-09-06 23:54:00,1
+357,KR00401,King's Return,Reactivation,Push,2024-09-02 11:13:00,0,,0
+358,KR00402,King's Return,Reactivation,Activity Center,2024-09-01 09:06:00,1,2024-09-01 09:48:00,1
+359,KR00403,King's Return,Reactivation,Push,2024-09-05 20:14:00,1,2024-09-05 20:27:00,1
+360,KR00404,King's Return,Reactivation,Popup,2024-09-07 09:43:00,1,2024-09-07 09:46:00,1
+361,KR00405,King's Return,Reactivation,Activity Center,2024-09-01 21:54:00,1,2024-09-01 22:18:00,1
+362,KR00406,King's Return,Reactivation,Activity Center,2024-09-04 14:41:00,0,,0
+363,KR00407,King's Return,Reactivation,Push,2024-09-06 11:01:00,0,,0
+364,KR00408,King's Return,Reactivation,Activity Center,2024-09-12 19:41:00,1,2024-09-12 20:05:00,1
+365,KR00409,King's Return,Reactivation,Activity Center,2024-09-02 12:07:00,1,2024-09-02 12:10:00,1
+366,KR00410,King's Return,Reactivation,Private Message Reminder,2024-09-06 14:08:00,1,2024-09-06 14:38:00,1
+367,KR00411,King's Return,Reactivation,Popup,2024-09-14 22:48:00,1,2024-09-14 23:07:00,1
+368,KR00412,King's Return,Reactivation,Banner,2024-09-10 12:07:00,1,2024-09-10 12:36:00,1
+369,KR00413,King's Return,Reactivation,Push,2024-09-12 18:52:00,0,,0
+370,KR00414,King's Return,Reactivation,Banner,2024-09-04 19:52:00,1,2024-09-04 20:32:00,1
+371,KR00415,King's Return,Reactivation,Private Message Reminder,2024-09-14 16:51:00,1,2024-09-14 17:11:00,1
+372,KR00416,King's Return,Reactivation,Popup,2024-09-01 10:02:00,1,2024-09-01 10:15:00,1
+373,KR00417,King's Return,Reactivation,Activity Center,2024-09-03 15:18:00,1,2024-09-03 15:55:00,1
+374,KR00419,King's Return,Reactivation,Banner,2024-09-09 16:07:00,1,2024-09-09 16:12:00,1
+375,KR00420,King's Return,Reactivation,Activity Center,2024-09-10 10:15:00,1,2024-09-10 10:19:00,1
+376,KR00421,King's Return,Reactivation,Banner,2024-09-05 14:01:00,1,2024-09-05 14:17:00,1
+377,KR00422,King's Return,Reactivation,Private Message Reminder,2024-09-02 23:05:00,0,,0
+378,KR00423,King's Return,Reactivation,Popup,2024-09-03 21:14:00,0,,0
+379,KR00424,King's Return,Reactivation,Activity Center,2024-09-10 12:19:00,1,2024-09-10 12:23:00,0
+380,KR00425,King's Return,Reactivation,Popup,2024-09-04 23:05:00,0,,0
+381,KR00426,King's Return,Reactivation,Activity Center,2024-09-07 22:53:00,1,2024-09-07 23:25:00,1
+382,KR00427,King's Return,Reactivation,Private Message Reminder,2024-09-09 13:12:00,1,2024-09-09 13:44:00,1
+383,KR00428,King's Return,Reactivation,Private Message Reminder,2024-09-11 10:32:00,1,2024-09-11 10:59:00,1
+384,KR00429,King's Return,Reactivation,Private Message Reminder,2024-09-13 08:22:00,0,,0
+385,KR00430,King's Return,Reactivation,Push,2024-09-11 12:42:00,0,,0
+386,KR00432,King's Return,Reactivation,Popup,2024-09-11 10:42:00,1,2024-09-11 10:46:00,1
+387,KR00433,King's Return,Reactivation,Private Message Reminder,2024-09-13 21:45:00,1,2024-09-13 22:09:00,1
+388,KR00434,King's Return,Reactivation,Banner,2024-09-09 20:46:00,1,2024-09-09 21:30:00,1
+389,KR00435,King's Return,Reactivation,Private Message Reminder,2024-09-04 21:18:00,0,,0
+390,KR00436,King's Return,Reactivation,Private Message Reminder,2024-09-09 19:46:00,0,,0
+391,KR00437,King's Return,Reactivation,Banner,2024-09-14 14:27:00,1,2024-09-14 15:09:00,1
+392,KR00438,King's Return,Reactivation,Popup,2024-09-06 12:52:00,1,2024-09-06 13:28:00,1
+393,KR00439,King's Return,Reactivation,Private Message Reminder,2024-09-11 21:20:00,0,,0
+394,KR00440,King's Return,Reactivation,Private Message Reminder,2024-09-09 09:13:00,1,2024-09-09 09:57:00,1
+395,KR00441,King's Return,Reactivation,Private Message Reminder,2024-09-12 18:53:00,1,2024-09-12 19:19:00,1
+396,KR00442,King's Return,Reactivation,Push,2024-09-06 17:00:00,1,2024-09-06 17:44:00,1
+397,KR00443,King's Return,Reactivation,Banner,2024-09-01 08:35:00,1,2024-09-01 09:09:00,1
+398,KR00444,King's Return,Reactivation,Push,2024-09-08 08:20:00,1,2024-09-08 09:03:00,1
+399,KR00445,King's Return,Reactivation,Banner,2024-09-03 22:25:00,1,2024-09-03 22:52:00,1
+400,KR00446,King's Return,Reactivation,Activity Center,2024-09-08 12:24:00,0,,0
+401,KR00447,King's Return,Reactivation,Push,2024-09-11 10:45:00,0,,0
+402,KR00448,King's Return,Reactivation,Banner,2024-09-06 17:52:00,1,2024-09-06 18:29:00,1
+403,KR00449,King's Return,Reactivation,Activity Center,2024-09-11 10:50:00,0,,0
+404,KR00450,King's Return,Reactivation,Popup,2024-09-09 13:28:00,0,,0
+405,KR00451,King's Return,Reactivation,Popup,2024-09-02 15:11:00,1,2024-09-02 15:43:00,1
+406,KR00452,King's Return,Reactivation,Private Message Reminder,2024-09-07 16:58:00,1,2024-09-07 17:31:00,1
+407,KR00453,King's Return,Reactivation,Popup,2024-09-03 12:26:00,1,2024-09-03 12:43:00,1
+408,KR00454,King's Return,Reactivation,Push,2024-09-05 10:11:00,1,2024-09-05 10:25:00,1
+409,KR00455,King's Return,Reactivation,Banner,2024-09-05 13:05:00,1,2024-09-05 13:13:00,1
+410,KR00456,King's Return,Reactivation,Private Message Reminder,2024-09-04 19:09:00,1,2024-09-04 19:19:00,1
+411,KR00457,King's Return,Reactivation,Banner,2024-09-10 19:50:00,1,2024-09-10 20:17:00,1
+412,KR00458,King's Return,Reactivation,Private Message Reminder,2024-09-02 18:11:00,1,2024-09-02 18:56:00,1
+413,KR00459,King's Return,Reactivation,Push,2024-09-01 12:01:00,0,,0
+414,KR00460,King's Return,Reactivation,Private Message Reminder,2024-09-04 14:34:00,1,2024-09-04 14:45:00,1
+415,KR00461,King's Return,Reactivation,Private Message Reminder,2024-09-08 18:06:00,1,2024-09-08 18:19:00,1
+416,KR00462,King's Return,Reactivation,Push,2024-09-06 09:27:00,1,2024-09-06 10:03:00,1
+417,KR00463,King's Return,Reactivation,Banner,2024-09-06 13:36:00,1,2024-09-06 13:51:00,1
+418,KR00464,King's Return,Reactivation,Popup,2024-09-07 11:57:00,0,,0
+419,KR00465,King's Return,Reactivation,Banner,2024-09-04 09:22:00,1,2024-09-04 09:46:00,1
+420,KR00466,King's Return,Reactivation,Activity Center,2024-09-01 18:15:00,0,,0
+421,KR00467,King's Return,Reactivation,Activity Center,2024-09-09 22:07:00,1,2024-09-09 22:28:00,1
+422,KR00468,King's Return,Reactivation,Push,2024-09-14 15:15:00,1,2024-09-14 15:38:00,1
+423,KR00469,King's Return,Reactivation,Popup,2024-09-14 22:29:00,1,2024-09-14 22:40:00,1
+424,KR00470,King's Return,Reactivation,Private Message Reminder,2024-09-08 13:35:00,0,,0
+425,KR00471,King's Return,Reactivation,Private Message Reminder,2024-09-08 08:42:00,0,,0
+426,KR00472,King's Return,Reactivation,Private Message Reminder,2024-09-07 15:03:00,1,2024-09-07 15:23:00,1
+427,KR00473,King's Return,Reactivation,Private Message Reminder,2024-09-13 21:33:00,1,2024-09-13 22:10:00,1
+428,KR00474,King's Return,Reactivation,Push,2024-09-14 12:08:00,1,2024-09-14 12:22:00,1
+429,KR00475,King's Return,Reactivation,Popup,2024-09-14 16:38:00,1,2024-09-14 16:46:00,0
+430,KR00476,King's Return,Reactivation,Private Message Reminder,2024-09-05 19:35:00,0,,0
+431,KR00477,King's Return,Reactivation,Private Message Reminder,2024-09-03 23:45:00,0,,0
+432,KR00478,King's Return,Reactivation,Banner,2024-09-11 13:13:00,1,2024-09-11 13:53:00,1
+433,KR00479,King's Return,Reactivation,Activity Center,2024-09-06 22:45:00,1,2024-09-06 22:48:00,1
+434,KR00480,King's Return,Reactivation,Private Message Reminder,2024-09-07 16:57:00,0,,0
+435,KR00481,King's Return,Reactivation,Private Message Reminder,2024-09-11 21:59:00,1,2024-09-11 22:29:00,1
+436,KR00482,King's Return,Reactivation,Activity Center,2024-09-10 18:23:00,1,2024-09-10 18:56:00,1
+437,KR00483,King's Return,Reactivation,Activity Center,2024-09-06 09:14:00,0,,0
+438,KR00484,King's Return,Reactivation,Banner,2024-09-07 15:42:00,1,2024-09-07 16:19:00,1
+439,KR00485,King's Return,Reactivation,Push,2024-09-08 18:33:00,1,2024-09-08 18:37:00,1
+440,KR00486,King's Return,Reactivation,Popup,2024-09-14 13:55:00,1,2024-09-14 14:31:00,1
+441,KR00487,King's Return,Reactivation,Banner,2024-09-05 11:41:00,1,2024-09-05 11:49:00,1
+442,KR00488,King's Return,Reactivation,Banner,2024-09-03 11:32:00,1,2024-09-03 12:16:00,1
+443,KR00489,King's Return,Reactivation,Banner,2024-09-13 20:13:00,1,2024-09-13 20:36:00,1
+444,KR00490,King's Return,Reactivation,Popup,2024-09-10 22:13:00,1,2024-09-10 22:40:00,1
+445,KR00491,King's Return,Reactivation,Popup,2024-09-05 19:31:00,0,,0
+446,KR00492,King's Return,Reactivation,Private Message Reminder,2024-09-10 17:24:00,1,2024-09-10 17:33:00,0
+447,KR00493,King's Return,Reactivation,Banner,2024-09-09 19:23:00,0,,0
+448,KR00494,King's Return,Reactivation,Banner,2024-09-03 17:49:00,1,2024-09-03 18:34:00,1
+449,KR00495,King's Return,Reactivation,Activity Center,2024-09-01 09:18:00,1,2024-09-01 09:44:00,1
+450,KR00496,King's Return,Reactivation,Popup,2024-09-14 08:59:00,1,2024-09-14 09:35:00,1
+451,KR00497,King's Return,Reactivation,Banner,2024-09-02 20:20:00,1,2024-09-02 20:42:00,1
+452,KR00499,King's Return,Reactivation,Activity Center,2024-09-01 19:28:00,1,2024-09-01 19:58:00,1
+453,KR00500,King's Return,Reactivation,Popup,2024-09-05 16:35:00,0,,0
+454,KR00501,King's Return,Reactivation,Activity Center,2024-09-13 10:21:00,1,2024-09-13 10:33:00,1
+455,KR00502,King's Return,Reactivation,Banner,2024-09-12 18:27:00,1,2024-09-12 18:51:00,1
+456,KR00503,King's Return,Reactivation,Push,2024-09-02 18:04:00,1,2024-09-02 18:35:00,1
+457,KR00504,King's Return,Reactivation,Popup,2024-09-05 18:19:00,1,2024-09-05 18:38:00,0
+458,KR00505,King's Return,Reactivation,Private Message Reminder,2024-09-14 15:23:00,1,2024-09-14 15:42:00,1
+459,KR00506,King's Return,Reactivation,Popup,2024-09-09 14:03:00,1,2024-09-09 14:07:00,1
+460,KR00507,King's Return,Reactivation,Activity Center,2024-09-06 17:03:00,0,,0
+461,KR00508,King's Return,Reactivation,Private Message Reminder,2024-09-06 14:32:00,1,2024-09-06 14:41:00,1
+462,KR00509,King's Return,Reactivation,Popup,2024-09-11 13:51:00,1,2024-09-11 14:13:00,1
+463,KR00510,King's Return,Reactivation,Activity Center,2024-09-12 14:08:00,1,2024-09-12 14:22:00,1
+464,KR00511,King's Return,Reactivation,Push,2024-09-06 09:44:00,1,2024-09-06 09:56:00,1
+465,KR00512,King's Return,Reactivation,Popup,2024-09-04 09:18:00,1,2024-09-04 09:39:00,1
+466,KR00513,King's Return,Reactivation,Activity Center,2024-09-12 14:58:00,0,,0
+467,KR00514,King's Return,Reactivation,Push,2024-09-06 10:44:00,0,,0
+468,KR00515,King's Return,Reactivation,Popup,2024-09-08 20:48:00,1,2024-09-08 21:15:00,1
+469,KR00516,King's Return,Reactivation,Push,2024-09-02 08:22:00,1,2024-09-02 08:51:00,1
+470,KR00517,King's Return,Reactivation,Activity Center,2024-09-10 15:23:00,1,2024-09-10 15:48:00,1
+471,KR00518,King's Return,Reactivation,Popup,2024-09-04 13:55:00,1,2024-09-04 14:05:00,1
+472,KR00519,King's Return,Reactivation,Banner,2024-09-05 08:38:00,1,2024-09-05 09:16:00,1
+473,KR00520,King's Return,Reactivation,Push,2024-09-01 09:17:00,0,,0
+474,KR00521,King's Return,Reactivation,Banner,2024-09-04 21:46:00,1,2024-09-04 22:10:00,0
+475,KR00522,King's Return,Reactivation,Push,2024-09-04 15:51:00,1,2024-09-04 16:15:00,1
+476,KR00523,King's Return,Reactivation,Private Message Reminder,2024-09-14 14:53:00,1,2024-09-14 15:22:00,1
+477,KR00524,King's Return,Reactivation,Push,2024-09-06 09:15:00,1,2024-09-06 09:24:00,1
+478,KR00526,King's Return,Reactivation,Private Message Reminder,2024-09-01 21:56:00,1,2024-09-01 22:08:00,1
+479,KR00527,King's Return,Reactivation,Push,2024-09-09 13:54:00,1,2024-09-09 14:08:00,1
+480,KR00529,King's Return,Reactivation,Private Message Reminder,2024-09-12 12:48:00,1,2024-09-12 13:17:00,1
+481,KR00530,King's Return,Reactivation,Activity Center,2024-09-09 11:41:00,1,2024-09-09 12:20:00,1
+482,KR00531,King's Return,Reactivation,Activity Center,2024-09-12 16:13:00,1,2024-09-12 16:17:00,1
+483,KR00532,King's Return,Reactivation,Push,2024-09-14 16:28:00,0,,0
+484,KR00533,King's Return,Reactivation,Push,2024-09-05 17:19:00,1,2024-09-05 17:28:00,1
+485,KR00534,King's Return,Reactivation,Activity Center,2024-09-08 18:59:00,1,2024-09-08 19:10:00,1
+486,KR00535,King's Return,Reactivation,Push,2024-09-06 22:21:00,1,2024-09-06 22:26:00,1
+487,KR00536,King's Return,Reactivation,Popup,2024-09-14 14:41:00,0,,0
+488,KR00537,King's Return,Reactivation,Push,2024-09-03 17:22:00,1,2024-09-03 17:52:00,1
+489,KR00538,King's Return,Reactivation,Banner,2024-09-13 18:21:00,1,2024-09-13 18:43:00,1
+490,KR00539,King's Return,Reactivation,Activity Center,2024-09-05 23:44:00,1,2024-09-06 00:00:00,1
+491,KR00540,King's Return,Reactivation,Activity Center,2024-09-08 20:50:00,1,2024-09-08 21:04:00,1
+492,KR00541,King's Return,Reactivation,Push,2024-09-14 20:19:00,1,2024-09-14 20:48:00,1
+493,KR00542,King's Return,Reactivation,Private Message Reminder,2024-09-02 09:14:00,0,,0
+494,KR00543,King's Return,Reactivation,Popup,2024-09-02 13:54:00,1,2024-09-02 14:09:00,1
+495,KR00544,King's Return,Reactivation,Push,2024-09-05 17:40:00,1,2024-09-05 17:48:00,1
+496,KR00545,King's Return,Reactivation,Activity Center,2024-09-10 21:34:00,1,2024-09-10 22:01:00,1
+497,KR00546,King's Return,Reactivation,Push,2024-09-12 23:47:00,1,2024-09-12 23:51:00,1
+498,KR00547,King's Return,Reactivation,Banner,2024-09-10 18:27:00,1,2024-09-10 18:57:00,1
+499,KR00548,King's Return,Reactivation,Activity Center,2024-09-06 14:14:00,1,2024-09-06 14:16:00,1
+500,KR00549,King's Return,Reactivation,Banner,2024-09-04 19:09:00,0,,0
+501,KR00550,King's Return,Reactivation,Push,2024-09-08 12:22:00,1,2024-09-08 12:45:00,1
+502,KR00551,King's Return,Reactivation,Banner,2024-09-08 19:39:00,0,,0
+503,KR00552,King's Return,Reactivation,Private Message Reminder,2024-09-05 08:45:00,1,2024-09-05 09:06:00,0
+504,KR00553,King's Return,Reactivation,Popup,2024-09-08 14:33:00,1,2024-09-08 14:34:00,1
+505,KR00554,King's Return,Reactivation,Popup,2024-09-01 21:39:00,1,2024-09-01 22:02:00,1
+506,KR00555,King's Return,Reactivation,Activity Center,2024-09-05 13:12:00,1,2024-09-05 13:32:00,1
+507,KR00556,King's Return,Reactivation,Activity Center,2024-09-08 19:10:00,1,2024-09-08 19:51:00,1
+508,KR00557,King's Return,Reactivation,Activity Center,2024-09-02 10:54:00,1,2024-09-02 11:39:00,1
+509,KR00558,King's Return,Reactivation,Private Message Reminder,2024-09-06 14:24:00,1,2024-09-06 15:09:00,1
+510,KR00559,King's Return,Reactivation,Banner,2024-09-12 17:38:00,1,2024-09-12 18:19:00,1
+511,KR00560,King's Return,Reactivation,Private Message Reminder,2024-09-12 08:48:00,1,2024-09-12 09:18:00,1
+512,KR00561,King's Return,Reactivation,Private Message Reminder,2024-09-04 15:16:00,1,2024-09-04 15:57:00,1
+513,KR00562,King's Return,Reactivation,Push,2024-09-09 23:53:00,1,2024-09-10 00:14:00,0
+514,KR00563,King's Return,Reactivation,Activity Center,2024-09-01 18:17:00,1,2024-09-01 18:33:00,1
+515,KR00564,King's Return,Reactivation,Activity Center,2024-09-05 18:16:00,1,2024-09-05 18:52:00,1
+516,KR00565,King's Return,Reactivation,Banner,2024-09-13 10:56:00,1,2024-09-13 11:27:00,1
+517,KR00566,King's Return,Reactivation,Private Message Reminder,2024-09-05 21:14:00,1,2024-09-05 21:38:00,1
+518,KR00567,King's Return,Reactivation,Banner,2024-09-03 15:13:00,1,2024-09-03 15:57:00,1
+519,KR00568,King's Return,Reactivation,Activity Center,2024-09-05 20:21:00,0,,0
+520,KR00571,King's Return,Reactivation,Popup,2024-09-09 15:49:00,1,2024-09-09 16:01:00,1
+521,KR00572,King's Return,Reactivation,Push,2024-09-14 23:45:00,1,2024-09-15 00:17:00,1
+522,KR00573,King's Return,Reactivation,Popup,2024-09-14 18:20:00,1,2024-09-14 19:00:00,1
+523,KR00574,King's Return,Reactivation,Banner,2024-09-14 23:38:00,0,,0
+524,KR00575,King's Return,Reactivation,Push,2024-09-14 11:08:00,1,2024-09-14 11:13:00,1
+525,KR00576,King's Return,Reactivation,Banner,2024-09-05 21:33:00,1,2024-09-05 22:01:00,1
+526,KR00577,King's Return,Reactivation,Private Message Reminder,2024-09-14 17:00:00,1,2024-09-14 17:40:00,1
+527,KR00578,King's Return,Reactivation,Popup,2024-09-12 14:10:00,1,2024-09-12 14:41:00,1
+528,KR00579,King's Return,Reactivation,Push,2024-09-09 18:40:00,1,2024-09-09 18:45:00,1
+529,KR00580,King's Return,Reactivation,Private Message Reminder,2024-09-11 14:25:00,1,2024-09-11 15:03:00,1
+530,KR00582,King's Return,Reactivation,Private Message Reminder,2024-09-01 18:30:00,1,2024-09-01 18:45:00,1
+531,KR00583,King's Return,Reactivation,Popup,2024-09-14 21:39:00,1,2024-09-14 22:18:00,1
+532,KR00584,King's Return,Reactivation,Banner,2024-09-10 18:54:00,1,2024-09-10 19:22:00,1
+533,KR00585,King's Return,Reactivation,Popup,2024-09-09 22:49:00,0,,0
+534,KR00586,King's Return,Reactivation,Private Message Reminder,2024-09-04 21:23:00,1,2024-09-04 21:30:00,1
+535,KR00587,King's Return,Reactivation,Popup,2024-09-01 20:49:00,1,2024-09-01 21:32:00,1
+536,KR00588,King's Return,Reactivation,Push,2024-09-09 15:02:00,1,2024-09-09 15:32:00,1
+537,KR00589,King's Return,Reactivation,Push,2024-09-07 16:41:00,1,2024-09-07 16:45:00,1
+538,KR00590,King's Return,Reactivation,Push,2024-09-06 11:51:00,1,2024-09-06 12:30:00,1
+539,KR00591,King's Return,Reactivation,Banner,2024-09-07 15:02:00,1,2024-09-07 15:27:00,1
+540,KR00592,King's Return,Reactivation,Private Message Reminder,2024-09-03 12:26:00,1,2024-09-03 12:56:00,1
+541,KR00593,King's Return,Reactivation,Push,2024-09-12 22:56:00,1,2024-09-12 23:16:00,1
+542,KR00594,King's Return,Reactivation,Push,2024-09-04 21:10:00,0,,0
+543,KR00595,King's Return,Reactivation,Banner,2024-09-04 09:39:00,1,2024-09-04 09:44:00,1
+544,KR00596,King's Return,Reactivation,Push,2024-09-10 21:52:00,1,2024-09-10 22:19:00,1
+545,KR00597,King's Return,Reactivation,Popup,2024-09-06 21:54:00,1,2024-09-06 22:15:00,1
+546,KR00598,King's Return,Reactivation,Push,2024-09-07 10:12:00,1,2024-09-07 10:20:00,1
+547,KR00599,King's Return,Reactivation,Private Message Reminder,2024-09-02 23:26:00,1,2024-09-02 23:56:00,1
+548,KR00601,King's Return,Reactivation,Private Message Reminder,2024-09-01 21:46:00,1,2024-09-01 22:24:00,1
+549,KR00602,King's Return,Reactivation,Push,2024-09-05 11:02:00,1,2024-09-05 11:31:00,1
+550,KR00603,King's Return,Reactivation,Push,2024-09-08 23:51:00,1,2024-09-09 00:25:00,1
+551,KR00604,King's Return,Reactivation,Push,2024-09-13 17:53:00,0,,0
+552,KR00605,King's Return,Reactivation,Popup,2024-09-12 17:13:00,0,,0
+553,KR00606,King's Return,Reactivation,Activity Center,2024-09-10 19:28:00,1,2024-09-10 20:10:00,1
+554,KR00607,King's Return,Reactivation,Banner,2024-09-13 16:49:00,0,,0
+555,KR00608,King's Return,Reactivation,Banner,2024-09-03 23:48:00,1,2024-09-04 00:25:00,1
+556,KR00609,King's Return,Reactivation,Activity Center,2024-09-09 08:27:00,1,2024-09-09 08:52:00,1
+557,KR00610,King's Return,Reactivation,Private Message Reminder,2024-09-03 10:39:00,0,,0
+558,KR00611,King's Return,Reactivation,Push,2024-09-07 17:47:00,1,2024-09-07 18:16:00,1
+559,KR00612,King's Return,Reactivation,Popup,2024-09-06 11:15:00,1,2024-09-06 11:41:00,1
+560,KR00613,King's Return,Reactivation,Activity Center,2024-09-07 11:48:00,1,2024-09-07 12:02:00,1
+561,KR00614,King's Return,Reactivation,Activity Center,2024-09-04 20:49:00,1,2024-09-04 21:14:00,1
+562,KR00615,King's Return,Reactivation,Banner,2024-09-05 12:39:00,1,2024-09-05 13:21:00,1
+563,KR00616,King's Return,Reactivation,Push,2024-09-06 15:21:00,1,2024-09-06 16:02:00,1
+564,KR00617,King's Return,Reactivation,Push,2024-09-07 12:58:00,1,2024-09-07 13:05:00,1
+565,KR00618,King's Return,Reactivation,Push,2024-09-04 08:04:00,1,2024-09-04 08:49:00,1
+566,KR00619,King's Return,Reactivation,Push,2024-09-06 15:16:00,1,2024-09-06 15:48:00,1
+567,KR00620,King's Return,Reactivation,Popup,2024-09-10 20:33:00,0,,0
+568,KR00621,King's Return,Reactivation,Push,2024-09-13 09:40:00,1,2024-09-13 10:20:00,1
+569,KR00622,King's Return,Reactivation,Banner,2024-09-07 17:44:00,1,2024-09-07 18:07:00,1
+570,KR00623,King's Return,Reactivation,Activity Center,2024-09-10 23:18:00,0,,0
+571,KR00624,King's Return,Reactivation,Private Message Reminder,2024-09-09 20:34:00,1,2024-09-09 21:11:00,1
+572,KR00625,King's Return,Reactivation,Private Message Reminder,2024-09-08 12:04:00,1,2024-09-08 12:29:00,1
+573,KR00626,King's Return,Reactivation,Activity Center,2024-09-10 08:19:00,1,2024-09-10 08:35:00,1
+574,KR00627,King's Return,Reactivation,Private Message Reminder,2024-09-08 23:05:00,1,2024-09-08 23:10:00,1
+575,KR00628,King's Return,Reactivation,Banner,2024-09-12 16:17:00,1,2024-09-12 17:02:00,1
+576,KR00629,King's Return,Reactivation,Push,2024-09-08 11:55:00,1,2024-09-08 12:10:00,1
+577,KR00630,King's Return,Reactivation,Push,2024-09-03 08:52:00,1,2024-09-03 09:24:00,1
+578,KR00631,King's Return,Reactivation,Push,2024-09-12 20:20:00,1,2024-09-12 20:48:00,1
+579,KR00632,King's Return,Reactivation,Activity Center,2024-09-01 08:38:00,1,2024-09-01 09:04:00,1
+580,KR00635,King's Return,Reactivation,Activity Center,2024-09-01 23:23:00,1,2024-09-02 00:05:00,1
+581,KR00636,King's Return,Reactivation,Push,2024-09-03 22:16:00,1,2024-09-03 22:46:00,1
+582,KR00637,King's Return,Reactivation,Private Message Reminder,2024-09-07 09:58:00,1,2024-09-07 10:20:00,1
+583,KR00638,King's Return,Reactivation,Banner,2024-09-04 21:18:00,1,2024-09-04 21:40:00,1
+584,KR00639,King's Return,Reactivation,Banner,2024-09-10 08:30:00,0,,0
+585,KR00640,King's Return,Reactivation,Banner,2024-09-05 16:49:00,1,2024-09-05 17:08:00,1
+586,KR00641,King's Return,Reactivation,Popup,2024-09-01 10:28:00,1,2024-09-01 11:11:00,1
+587,KR00642,King's Return,Reactivation,Banner,2024-09-08 20:12:00,1,2024-09-08 20:43:00,1
+588,KR00643,King's Return,Reactivation,Banner,2024-09-08 20:42:00,1,2024-09-08 21:17:00,1
+589,KR00644,King's Return,Reactivation,Push,2024-09-04 18:47:00,1,2024-09-04 19:19:00,1
+590,KR00645,King's Return,Reactivation,Private Message Reminder,2024-09-07 17:58:00,1,2024-09-07 18:01:00,1
+591,KR00646,King's Return,Reactivation,Banner,2024-09-11 08:57:00,1,2024-09-11 09:28:00,1
+592,KR00647,King's Return,Reactivation,Private Message Reminder,2024-09-11 16:51:00,1,2024-09-11 17:16:00,1
+593,KR00648,King's Return,Reactivation,Private Message Reminder,2024-09-11 23:31:00,1,2024-09-11 23:59:00,1
+594,KR00649,King's Return,Reactivation,Push,2024-09-09 13:41:00,1,2024-09-09 14:03:00,1
+595,KR00650,King's Return,Reactivation,Popup,2024-09-10 10:15:00,1,2024-09-10 10:54:00,1
+596,KR00651,King's Return,Reactivation,Private Message Reminder,2024-09-10 11:29:00,1,2024-09-10 11:32:00,1
+597,KR00652,King's Return,Reactivation,Private Message Reminder,2024-09-01 10:54:00,1,2024-09-01 11:17:00,1
+598,KR00653,King's Return,Reactivation,Private Message Reminder,2024-09-08 18:07:00,1,2024-09-08 18:28:00,1
+599,KR00654,King's Return,Reactivation,Private Message Reminder,2024-09-13 23:00:00,1,2024-09-13 23:44:00,1
+600,KR00655,King's Return,Reactivation,Push,2024-09-13 21:31:00,1,2024-09-13 22:16:00,1
+601,KR00656,King's Return,Reactivation,Push,2024-09-14 21:22:00,1,2024-09-14 21:48:00,1
+602,KR00657,King's Return,Reactivation,Push,2024-09-03 14:06:00,1,2024-09-03 14:40:00,1
+603,KR00658,King's Return,Reactivation,Popup,2024-09-06 08:24:00,1,2024-09-06 08:59:00,1
+604,KR00659,King's Return,Reactivation,Popup,2024-09-01 14:24:00,1,2024-09-01 14:35:00,1
+605,KR00660,King's Return,Reactivation,Popup,2024-09-06 08:40:00,1,2024-09-06 08:48:00,1
+606,KR00661,King's Return,Reactivation,Private Message Reminder,2024-09-14 09:36:00,1,2024-09-14 09:54:00,1
+607,KR00663,King's Return,Reactivation,Push,2024-09-05 20:01:00,0,,0
+608,KR00664,King's Return,Reactivation,Activity Center,2024-09-03 10:08:00,1,2024-09-03 10:51:00,1
+609,KR00665,King's Return,Reactivation,Private Message Reminder,2024-09-06 12:50:00,1,2024-09-06 13:13:00,1
+610,KR00666,King's Return,Reactivation,Push,2024-09-02 12:41:00,1,2024-09-02 13:08:00,1
+611,KR00667,King's Return,Reactivation,Push,2024-09-07 13:30:00,1,2024-09-07 13:42:00,1
+612,KR00668,King's Return,Reactivation,Popup,2024-09-01 13:57:00,1,2024-09-01 14:24:00,1
+613,KR00669,King's Return,Reactivation,Activity Center,2024-09-03 08:36:00,1,2024-09-03 08:44:00,1
+614,KR00670,King's Return,Reactivation,Activity Center,2024-09-14 14:45:00,1,2024-09-14 14:50:00,1
+615,KR00671,King's Return,Reactivation,Push,2024-09-09 20:08:00,1,2024-09-09 20:50:00,1
+616,KR00672,King's Return,Reactivation,Popup,2024-09-03 15:53:00,1,2024-09-03 16:29:00,1
+617,KR00673,King's Return,Reactivation,Activity Center,2024-09-12 08:31:00,1,2024-09-12 09:14:00,1
+618,KR00674,King's Return,Reactivation,Activity Center,2024-09-03 23:56:00,1,2024-09-04 00:28:00,1
+619,KR00675,King's Return,Reactivation,Activity Center,2024-09-13 15:09:00,1,2024-09-13 15:17:00,1
+620,KR00676,King's Return,Reactivation,Push,2024-09-11 13:04:00,1,2024-09-11 13:15:00,1
+621,KR00677,King's Return,Reactivation,Activity Center,2024-09-13 09:22:00,1,2024-09-13 09:44:00,1
+622,KR00678,King's Return,Reactivation,Private Message Reminder,2024-09-07 12:01:00,1,2024-09-07 12:26:00,1
+623,KR00679,King's Return,Reactivation,Banner,2024-09-02 21:32:00,1,2024-09-02 22:02:00,1
+624,KR00680,King's Return,Reactivation,Push,2024-09-08 14:47:00,1,2024-09-08 14:55:00,1
+625,KR00681,King's Return,Reactivation,Push,2024-09-07 11:23:00,1,2024-09-07 12:07:00,1
+626,KR00682,King's Return,Reactivation,Private Message Reminder,2024-09-12 20:02:00,1,2024-09-12 20:32:00,1
+627,KR00683,King's Return,Reactivation,Banner,2024-09-13 20:29:00,1,2024-09-13 20:39:00,1
+628,KR00684,King's Return,Reactivation,Private Message Reminder,2024-09-13 18:53:00,1,2024-09-13 19:16:00,1
+629,KR00685,King's Return,Reactivation,Banner,2024-09-12 10:31:00,1,2024-09-12 11:05:00,1
+630,KR00686,King's Return,Reactivation,Popup,2024-09-01 15:29:00,1,2024-09-01 16:02:00,1
+631,KR00687,King's Return,Reactivation,Popup,2024-09-13 19:53:00,1,2024-09-13 19:56:00,1
