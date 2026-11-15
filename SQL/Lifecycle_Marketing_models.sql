@@ -47,7 +47,7 @@ SELECT
     CASE
         WHEN f.campaign_recharge_amount = 0    THEN 'No Recharge'
         WHEN f.campaign_recharge_amount < 500  THEN 'Below 500'
-        WHEN f.campaign_recharge_amount < 1000 THEN '500-999'
+        WHEN f.campaign_recharge_amount < 1000 THEN '1-999'
         WHEN f.campaign_recharge_amount < 1500 THEN '1000-1499'
         ELSE '1500+'
     END AS recharge_tier,
@@ -121,7 +121,7 @@ SELECT
     -- Recharge Band (King's uses wider bands than Fortune)
     CASE
         WHEN COALESCE(rc.recharge_amount, 0) = 0 THEN 'No Recharge'
-        WHEN rc.recharge_amount < 1000   THEN '500-999'
+        WHEN rc.recharge_amount < 1000   THEN '1-999'
         WHEN rc.recharge_amount < 5000   THEN '1000-4999'
         WHEN rc.recharge_amount < 10000  THEN '5000-9999'
         WHEN rc.recharge_amount < 50000  THEN '10000-49999'
