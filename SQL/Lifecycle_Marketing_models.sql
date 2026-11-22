@@ -47,7 +47,7 @@ SELECT
     CASE
         WHEN f.campaign_recharge_amount = 0    THEN 'No Recharge'
         WHEN f.campaign_recharge_amount < 500  THEN 'Below 500'
-        WHEN f.campaign_recharge_amount < 1000 THEN '1-999'
+        WHEN f.campaign_recharge_amount < 1000 THEN '500-999'
         WHEN f.campaign_recharge_amount < 1500 THEN '1000-1499'
         ELSE '1500+'
     END AS recharge_tier,
