@@ -121,7 +121,7 @@ SELECT
     -- Recharge Band (King's uses wider bands than Fortune)
     CASE
         WHEN COALESCE(rc.recharge_amount, 0) = 0 THEN 'No Recharge'
-        WHEN rc.recharge_amount < 1000   THEN '1-999'
+        WHEN rc.recharge_amount < 1000   THEN '500-999'
         WHEN rc.recharge_amount < 5000   THEN '1000-4999'
         WHEN rc.recharge_amount < 10000  THEN '5000-9999'
         WHEN rc.recharge_amount < 50000  THEN '10000-49999'
