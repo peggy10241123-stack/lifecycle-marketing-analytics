@@ -31,13 +31,13 @@ SELECT
     f.campaign_recharge_amount,
     f.recharge_day_count,
 
-    -- key sources (for 13.4 key distribution) + total
+    -- key sources + total
     f.key_earned_4day,
     f.key_earned_10k,
     f.key_earned_milestone,
     f.key_earned_total,
 
-    -- lottery / leaderboard (for 13.5, 13.8)
+    -- lottery / leaderboard (for 13.4, 13.7)
     f.lottery_draw_count,
     f.wealth_coin,
     f.leaderboard_flag,
@@ -239,7 +239,7 @@ GROUP BY recharge_tier
 ORDER BY revenue DESC;
 
 
--- Fortune: key distribution by source  (rebuilds Report 13.4)
+-- Fortune: key distribution by source
 SELECT
     SUM(key_earned_4day)      AS keys_4day,
     SUM(key_earned_10k)       AS keys_10k,
@@ -248,7 +248,7 @@ SELECT
 FROM model_fortune_users;
 
 
--- Fortune: value-tier revenue & ARPPU  (rebuilds Report 13.6)
+-- Fortune: value-tier revenue & ARPPU  (rebuilds Report 13.5)
 SELECT
     user_value_tier,
     SUM(CASE WHEN recharge_flag = 1 THEN 1 ELSE 0 END) AS recharge_users,
